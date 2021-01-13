@@ -1,13 +1,19 @@
 ---
-title: Simple Jekyll - A Jekyll site powered by Simple.css
-header: Simple Jekyll {}
-description: A Jekyll site powered by Simple.css
+title: Mike Stone 
+header: Mike Stone 
+description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon 
 permalink: /
 layout: default
 ---
 
-# Welcome to Simple Jekyll
+# Welcome!!
 
-This is a simple webpage that has been handbuilt by [Mike Stone](https://mikestone.me) using the Jekyll static site generator and [Simple.css](https://simplecss.org).
+You've reached my blog. I might be here, and I might not. It's hard to tell because I'm writing this in the past, and you're there in the future. Or the present? Time, it's so weird.
 
-Please feel free to take a look around. If you're interested, you can find the source code for this site [on GitHub](https://github.com/kevquirk/jekyll-simple.css).
+Anyway, content....
+
+{% for post in site.posts %}
+  <p><a href="{{ post.url }}">{{ post.title }}</a><br>
+  {{ post.description }}<br>
+  📅 {{ post.date | date_to_string }}</p>
+{% endfor %}
