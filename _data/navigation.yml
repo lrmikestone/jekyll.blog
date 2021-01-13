@@ -4,8 +4,11 @@
 - name: About Mike
   link: /about
 
-- name: Blog
-  link: /blog
+- name: About this Site
+  link: /about-this-site
 
 - name: Contact Me
   link: /contact
+
+- name: What is Linux?
+    2   link: /what-is-linux
