@@ -1,12 +1,11 @@
 ---
-title: About | Simple Jekyll
-header: About Simple Jekyll
-description: This page tells you a little bit about this website.
+title: About Mike 
+header: About Mike 
+description: This page tells you a little bit about Mike.
 permalink: /about/
 layout: default
 ---
 
-Lorem ipsum dolor sit amet consectetur adipiscing elit ullamcorper integer scelerisque luctus, lobortis praesent erat est penatibus fringilla potenti libero facilisis aptent. Vestibulum mi posuere faucibus aliquet lacinia pharetra donec gravida eu interdum, cum ultricies placerat lectus montes cursus torquent tempor non, bibendum congue nascetur primis proin fames conubia maecenas praesent. Rhoncus purus proin et suscipit egestas class mauris curabitur condimentum, quis dis porta velit commodo nostra morbi turpis.
+# About Mike
 
-Taciti placerat nascetur duis auctor facilisis conubia pulvinar, lobortis tincidunt justo dui lectus et gravida condimentum, egestas magna himenaeos penatibus interdum velit. Primis curae eu orci elementum viverra rhoncus fames maecenas enim euismod ad bibendum odio aptent vitae augue varius fusce, proin curabitur cum et quis sollicitudin congue dictumst litora lacus urna accumsan ligula ullamcorper a est convallis. Aptent mollis est habitasse morbi eros metus egestas, tellus ornare iaculis hendrerit ultrices sodales quis sagittis, semper habitant euismod facilisi ultricies magna.
-
+Hi, my name is Mike.  I got started in IS/IT as a way to pay the bills while I was learning to code professionally.  After college, I dutifully got a job as a programmer working with a company's proprietary language. It took me three years, but I finally realized that I liked IS/IT work better. I left my programming job and got a job working as a Server Application Support Engineer. Five years later I left that job to move across the country and found a new place that would let me play with their really expensive Linux servers, but only if I promise to write some code to automate their processes and make sure their stuff keeps working. Seems like a fair deal to me.
