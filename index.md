@@ -14,7 +14,7 @@ Anyway, content....
 
 {% for post in site.posts %}
   <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-  {{ post.date | date_to_string }}
+  <h3>){{ post.date | date_to_string }}</h3>
 
   {{ post.description }}<br>
 {% endfor %}
