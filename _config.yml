@@ -6,7 +6,7 @@ plugins:
 author: Mike Stone 
 description: Mike's Personal Blog
 lang: en
-locale: en_GB
+locale: en_US
 url: "https://wegivebadadvice.com"
 baseurl: ""
 
