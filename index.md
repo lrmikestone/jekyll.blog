@@ -6,15 +6,9 @@ permalink: /
 layout: default
 ---
 
-# Welcome!!
-
-You've reached my blog. I might be here, and I might not. It's hard to tell because I'm writing this in the past, and you're there in the future. Or the present? Time, it's so weird.
-
-Anyway, content....
-
 {% for post in site.posts %}
-  <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+  <h2><a href="{{ post.url }}">{{ post.post_title }}</a></h2>
   {{ post.date | date_to_string }}
 
-  {{ post.description }}<br>
+  {{ post.excerpt }}<br>
 {% endfor %}
