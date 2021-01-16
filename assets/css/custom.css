@@ -7,3 +7,24 @@ header {
     border-bottom: 1px solid var(--border);
     text-align: center
   }
+
+.post-link a {
+  line-height: 1;
+}
+
+.meta {
+  color: var(--text-light);
+  font-size: 1rem;
+  margin-top: -2rem;
+}
+
+.excerpt {
+  margin-bottom: 4rem;
+}
+
+nav a:hover,
+nav a.current {
+  color: var(--accent) !important;
+  border-color: var(--accent);
+  background: var(--bg);
+}
