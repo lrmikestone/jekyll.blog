@@ -21,3 +21,10 @@ header {
 .excerpt {
   margin-bottom: 4rem;
 }
+
+nav a:hover,
+nav a.current {
+  color: var(--accent) !important;
+  border-color: var(--accent);
+  background: var(--bg);
+}
