@@ -3,13 +3,17 @@ plugins:
   - jekyll-sitemap
 
 # SEO Stuff
-author: Mike Stone 
+author: Mike Stone
 description: Mike's Personal Blog
 lang: en
 locale: en_US
 url: "https://mikestone.me"
-baseurl: 
+baseurl:
 
 # RSS feeds
 feed:
   posts_limit: 20
+
+# Netlify redirects
+include:
+  - _redirects
