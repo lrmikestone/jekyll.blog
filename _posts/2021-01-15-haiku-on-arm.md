@@ -1,8 +1,8 @@
 ---
-title: Mike Stone
+
 header: Mike Stone
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
-post_title: Haiku On Arm
+title: Haiku On Arm
 permalink: /haiku-on-arm/
 excerpt_separator: <!--more-->
 layout: post

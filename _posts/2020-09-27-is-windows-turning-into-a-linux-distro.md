@@ -1,8 +1,8 @@
 ---
-title: Mike Stone
+
 header: Mike Stone
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
-post_title: Is Windows Turning Into A Linux Distro?
+title: Is Windows Turning Into A Linux Distro?
 permalink: /is-windows-turning-into-a-linux-distro/
 excerpt_separator: <!--more-->
 layout: post

@@ -1,8 +1,8 @@
 ---
-title: Mike Stone
+
 header: Mike Stone
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
-post_title: The Old Fashioned Distributed Internet
+title: The Old Fashioned Distributed Internet
 permalink: /the-old-fashioned-distributed-internet/
 excerpt_separator: <!--more-->
 layout: post

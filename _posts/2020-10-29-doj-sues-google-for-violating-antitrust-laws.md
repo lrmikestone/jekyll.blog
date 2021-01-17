@@ -1,8 +1,8 @@
 ---
-title: Mike Stone
+
 header: Mike Stone
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
-post_title: DOJ Sues Google For Violating Antitrust Laws
+title: DOJ Sues Google For Violating Antitrust Laws
 permalink: /doj-sues-google-for-violating-antitrust-laws/
 excerpt_separator: <!--more-->
 layout: post

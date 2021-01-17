@@ -1,8 +1,8 @@
 ---
-title: Mike Stone
+
 header: Mike Stone
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
-post_title: Working From Home
+title: Working From Home
 permalink: /working-from-home/
 excerpt_separator: <!--more-->
 layout: post

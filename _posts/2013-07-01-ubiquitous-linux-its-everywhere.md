@@ -1,8 +1,8 @@
 ---
-title: Mike Stone
+
 header: Mike Stone
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
-post_title: Ubiquitous Linux, It's Everywhere
+title: Ubiquitous Linux, It's Everywhere
 permalink: /ubiquitous-linux-its-everywhere/
 excerpt_separator: <!--more-->
 layout: post

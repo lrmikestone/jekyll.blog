@@ -1,8 +1,8 @@
 ---
-title: Mike Stone
+
 header: Mike Stone
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
-post_title: Linux Just Works
+title: Linux Just Works
 permalink: /linux-it-just-works/
 excerpt_separator: <!--more-->
 layout: post

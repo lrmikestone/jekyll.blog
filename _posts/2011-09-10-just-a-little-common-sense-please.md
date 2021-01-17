@@ -1,8 +1,8 @@
 ---
-title: Mike Stone
+
 header: Mike Stone
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
-post_title: Just a Little Common Sense Please?!?
+title: Just a Little Common Sense Please?!?
 permalink: /just-a-little-common-sense-please/
 excerpt_separator: <!--more-->
 layout: post

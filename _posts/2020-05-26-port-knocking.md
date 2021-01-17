@@ -1,8 +1,8 @@
 ---
-title: Mike Stone
+
 header: Mike Stone
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
-post_title: Port Knocking
+title: Port Knocking
 permalink: /port-knocking/
 excerpt_separator: <!--more-->
 layout: post

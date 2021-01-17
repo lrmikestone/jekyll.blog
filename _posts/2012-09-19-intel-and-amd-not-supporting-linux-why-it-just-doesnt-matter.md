@@ -1,8 +1,8 @@
 ---
-title: Mike Stone
+
 header: Mike Stone
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
-post_title: Intel and AMD Not Supporting Linux And Why It Just Doesn't Matter
+title: Intel and AMD Not Supporting Linux And Why It Just Doesn't Matter
 permalink: /intel-and-amd-not-supporting-linux-why-it-just-doesnt-matter/
 excerpt_separator: <!--more-->
 layout: post

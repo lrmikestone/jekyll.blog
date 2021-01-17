@@ -1,8 +1,8 @@
 ---
-title: Mike Stone
+
 header: Mike Stone
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
-post_title: Is 2021 The Year Of The Google Linux Desktop?
+title: Is 2021 The Year Of The Google Linux Desktop?
 permalink: /is-2021-the-year-of-the-google-linux-desktop/
 excerpt_separator: <!--more-->
 layout: post

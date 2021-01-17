@@ -1,8 +1,8 @@
 ---
-title: Mike Stone
+
 header: Mike Stone
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
-post_title: Android 11 Feature Or Bug?
+title: Android 11 Feature Or Bug?
 permalink: /android-11-feature-or-bug/
 excerpt_separator: <!--more-->
 layout: post

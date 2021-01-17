@@ -1,8 +1,8 @@
 ---
-title: Mike Stone
+
 header: Mike Stone
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
-post_title: My Interest In AI
+title: My Interest In AI
 permalink: /my-interest-in-ai/
 excerpt_separator: <!--more-->
 layout: post

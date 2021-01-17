@@ -1,8 +1,8 @@
 ---
-title: Mike Stone
+
 header: Mike Stone
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
-post_title: \"This is Still Early in the Game...\"??????
+title: \"This is Still Early in the Game...\"??????
 permalink: /this-is-still-early-in-the-game/
 excerpt_separator: <!--more-->
 layout: post

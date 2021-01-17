@@ -1,8 +1,8 @@
 ---
-title: Mike Stone
+
 header: Mike Stone
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
-post_title: The Future of Assistants
+title: The Future of Assistants
 permalink: /the-future-of-assistants/
 excerpt_separator: <!--more-->
 layout: post

@@ -1,8 +1,8 @@
 ---
-title: Mike Stone
+
 header: Mike Stone
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
-post_title: It’s Not A Smarthome
+title: It’s Not A Smarthome
 permalink: /its-not-a-smarthome/
 excerpt_separator: <!--more-->
 layout: post

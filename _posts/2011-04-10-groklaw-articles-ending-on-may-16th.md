@@ -1,8 +1,8 @@
 ---
-title: Mike Stone
+
 header: Mike Stone
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
-post_title: Groklaw Articles Ending on May 16th
+title: Groklaw Articles Ending on May 16th
 permalink: /groklaw-articles-ending-on-may-16th/
 excerpt_separator: <!--more-->
 layout: post

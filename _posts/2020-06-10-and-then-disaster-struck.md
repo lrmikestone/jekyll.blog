@@ -1,8 +1,8 @@
 ---
-title: Mike Stone
+
 header: Mike Stone
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
-post_title: And Then Disaster Struck
+title: And Then Disaster Struck
 permalink: /and-then-disaster-struck/
 excerpt_separator: <!--more-->
 layout: post

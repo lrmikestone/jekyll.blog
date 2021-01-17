@@ -1,8 +1,8 @@
 ---
-title: Mike Stone
+
 header: Mike Stone
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
-post_title: Fun with File Permissions – Part 4
+title: Fun with File Permissions – Part 4
 permalink: /fun-with-file-permissions-part-4/
 excerpt_separator: <!--more-->
 layout: post

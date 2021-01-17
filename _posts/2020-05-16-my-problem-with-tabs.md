@@ -1,8 +1,8 @@
 ---
-title: Mike Stone
+
 header: Mike Stone
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
-post_title: My Problem With Tabs
+title: My Problem With Tabs
 permalink: /my-problem-with-tabs/
 excerpt_separator: <!--more-->
 layout: post

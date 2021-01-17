@@ -1,8 +1,8 @@
 ---
-title: Mike Stone
+
 header: Mike Stone
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
-post_title: Distributions Are The Evolution of Linux
+title: Distributions Are The Evolution of Linux
 permalink: /distributions-the-evolution-of-linux/
 excerpt_separator: <!--more-->
 layout: post

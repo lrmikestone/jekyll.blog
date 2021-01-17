@@ -1,8 +1,8 @@
 ---
-title: Mike Stone
+
 header: Mike Stone
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
-post_title: Zoom Bought Keybase
+title: Zoom Bought Keybase
 permalink: /zoom-bought-keybase/
 excerpt_separator: <!--more-->
 layout: post

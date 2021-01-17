@@ -1,8 +1,8 @@
 ---
-title: Mike Stone
+
 header: Mike Stone
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
-post_title: 100 Days Of Discovery
+title: 100 Days Of Discovery
 permalink: /100-days-of-discovery/
 excerpt_separator: <!--more-->
 layout: post

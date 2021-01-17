@@ -1,8 +1,8 @@
 ---
-title: Mike Stone
+
 header: Mike Stone
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
-post_title: Linux GUI Apps In Windows
+title: Linux GUI Apps In Windows
 permalink: /linux-gui-apps-in-windows/
 excerpt_separator: <!--more-->
 layout: post

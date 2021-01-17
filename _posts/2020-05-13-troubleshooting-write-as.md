@@ -1,8 +1,8 @@
 ---
-title: Mike Stone
+
 header: Mike Stone
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
-post_title: Troubleshooting Write.as
+title: Troubleshooting Write.as
 permalink: /troubleshooting-write-as/
 excerpt_separator: <!--more-->
 layout: post

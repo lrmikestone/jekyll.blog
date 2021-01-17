@@ -1,8 +1,8 @@
 ---
-title: Mike Stone
+
 header: Mike Stone
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
-post_title: My Wife's Thoughts on Linux
+title: My Wife's Thoughts on Linux
 permalink: /my-wifes-thoughts-on-linux/
 excerpt_separator: <!--more-->
 layout: post

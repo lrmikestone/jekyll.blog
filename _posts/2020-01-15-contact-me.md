@@ -1,8 +1,8 @@
 ---
-title: Mike Stone
+
 header: Mike Stone
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
-post_title: Contact Me
+title: Contact Me
 permalink: /contact-me/
 excerpt_separator: <!--more-->
 layout: post

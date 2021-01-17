@@ -1,8 +1,8 @@
 ---
-title: Mike Stone
+
 header: Mike Stone
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
-post_title: My First Time With Linux – Day 2
+title: My First Time With Linux – Day 2
 permalink: /my-first-time-with-linux-day-2/
 excerpt_separator: <!--more-->
 layout: post

@@ -1,8 +1,8 @@
 ---
-title: Mike Stone
+
 header: Mike Stone
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
-post_title: A Different Kind Of Shell
+title: A Different Kind Of Shell
 permalink: /a-different-kind-of-shell/
 excerpt_separator: <!--more-->
 layout: post

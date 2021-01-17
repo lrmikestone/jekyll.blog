@@ -1,8 +1,8 @@
 ---
-title: Mike Stone
+
 header: Mike Stone
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
-post_title: Pwn2Own 2011 is coming! Place your bets...
+title: Pwn2Own 2011 is coming! Place your bets...
 permalink: /pwn2own-2011-is-coming-place-your-bets/
 excerpt_separator: <!--more-->
 layout: post

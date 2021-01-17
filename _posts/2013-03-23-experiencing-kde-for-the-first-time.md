@@ -1,8 +1,8 @@
 ---
-title: Mike Stone
+
 header: Mike Stone
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
-post_title: Experiencing KDE for the First Time. Again.
+title: Experiencing KDE for the First Time. Again.
 permalink: /experiencing-kde-for-the-first-time/
 excerpt_separator: <!--more-->
 layout: post

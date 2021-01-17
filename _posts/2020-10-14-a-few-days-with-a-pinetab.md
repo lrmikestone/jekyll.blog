@@ -1,8 +1,8 @@
 ---
-title: Mike Stone
+
 header: Mike Stone
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
-post_title: A Few Days With A PineTab
+title: A Few Days With A PineTab
 permalink: /a-few-days-with-a-pinetab/
 excerpt_separator: <!--more-->
 layout: post

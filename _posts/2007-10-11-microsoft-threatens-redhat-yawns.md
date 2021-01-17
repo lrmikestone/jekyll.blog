@@ -1,8 +1,8 @@
 ---
-title: Mike Stone
+
 header: Mike Stone
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
-post_title: Microsoft Threatens, Redhat Yawns
+title: Microsoft Threatens, Redhat Yawns
 permalink: /microsoft-threatens-redhat-yawns/
 excerpt_separator: <!--more-->
 layout: post

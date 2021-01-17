@@ -1,8 +1,8 @@
 ---
-title: Mike Stone
+
 header: Mike Stone
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
-post_title: Florian Mueller is no Pamela Jones
+title: Florian Mueller is no Pamela Jones
 permalink: /florian-mueller-is-no-pamela-jones/
 excerpt_separator: <!--more-->
 layout: post

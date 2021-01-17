@@ -1,8 +1,8 @@
 ---
-title: Mike Stone
+
 header: Mike Stone
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
-post_title: My First Week (and change) with a Natty Netbook
+title: My First Week (and change) with a Natty Netbook
 permalink: /my-first-week-and-change-with-a-natty-netbook/
 excerpt_separator: <!--more-->
 layout: post

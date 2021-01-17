@@ -1,8 +1,8 @@
 ---
-title: Mike Stone
+
 header: Mike Stone
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
-post_title: Playing With neofetch
+title: Playing With neofetch
 permalink: /playing-with-neofetch/
 excerpt_separator: <!--more-->
 layout: post

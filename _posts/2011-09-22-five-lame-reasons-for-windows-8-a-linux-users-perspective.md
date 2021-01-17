@@ -1,8 +1,8 @@
 ---
-title: Mike Stone
+
 header: Mike Stone
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
-post_title: Five (Lame) Reasons for Windows 8 (A Linux Users Perspective)?
+title: Five (Lame) Reasons for Windows 8 (A Linux Users Perspective)?
 permalink: /five-lame-reasons-for-windows-8-a-linux-users-perspective/
 excerpt_separator: <!--more-->
 layout: post

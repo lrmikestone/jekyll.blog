@@ -1,8 +1,8 @@
 ---
-title: Mike Stone
+
 header: Mike Stone
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
-post_title: Mycroft's GUI Goodness
+title: Mycroft's GUI Goodness
 permalink: /mycrofts-gui-goodness/
 excerpt_separator: <!--more-->
 layout: post

@@ -1,8 +1,8 @@
 ---
-title: Mike Stone
+
 header: Mike Stone
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
-post_title: Why I Don't Use Brave
+title: Why I Don't Use Brave
 permalink: /why-i-dont-use-brave/
 excerpt_separator: <!--more-->
 layout: post

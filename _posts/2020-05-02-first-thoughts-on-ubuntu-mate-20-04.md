@@ -1,8 +1,8 @@
 ---
-title: Mike Stone
+
 header: Mike Stone
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
-post_title: First Thoughts on Ubuntu Mate 20.04
+title: First Thoughts on Ubuntu Mate 20.04
 permalink: /first-thoughts-on-ubuntu-mate-20-04/
 excerpt_separator: <!--more-->
 layout: post

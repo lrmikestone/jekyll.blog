@@ -1,8 +1,8 @@
 ---
-title: Mike Stone
+
 header: Mike Stone
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
-post_title: Merging Your Mobile With Your Desktop
+title: Merging Your Mobile With Your Desktop
 permalink: /merging-your-mobile-with-your-desktop/
 excerpt_separator: <!--more-->
 layout: post

@@ -1,8 +1,8 @@
 ---
-title: Mike Stone
+
 header: Mike Stone
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
-post_title: Attention Hospitals! Use Linux!
+title: Attention Hospitals! Use Linux!
 permalink: /attention-hospitals-use-linux/
 excerpt_separator: <!--more-->
 layout: post

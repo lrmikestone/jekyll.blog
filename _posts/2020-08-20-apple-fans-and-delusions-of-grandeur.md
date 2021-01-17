@@ -1,8 +1,8 @@
 ---
-title: Mike Stone
+
 header: Mike Stone
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
-post_title: Apple Fans And Delusions Of Grandeur
+title: Apple Fans And Delusions Of Grandeur
 permalink: /apple-fans-and-delusions-of-grandeur/
 excerpt_separator: <!--more-->
 layout: post

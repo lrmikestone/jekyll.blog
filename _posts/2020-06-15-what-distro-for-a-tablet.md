@@ -1,8 +1,8 @@
 ---
-title: Mike Stone
+
 header: Mike Stone
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
-post_title: What Distro For A Tablet?
+title: What Distro For A Tablet?
 permalink: /what-distro-for-a-tablet/
 excerpt_separator: <!--more-->
 layout: post

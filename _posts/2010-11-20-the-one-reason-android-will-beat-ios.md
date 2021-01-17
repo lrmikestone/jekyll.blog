@@ -1,8 +1,8 @@
 ---
-title: Mike Stone
+
 header: Mike Stone
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
-post_title: The One Reason Android will Beat iOS
+title: The One Reason Android will Beat iOS
 permalink: /the-one-reason-android-will-beat-ios/
 excerpt_separator: <!--more-->
 layout: post
