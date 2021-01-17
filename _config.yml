@@ -1,7 +1,6 @@
 plugins:
   - jekyll-feed
   - jekyll-sitemap
-  - jekyll-paginate
 
 # SEO Stuff
 author: Mike Stone 
@@ -10,7 +9,6 @@ lang: en
 locale: en_US
 url: "https://mikestone.me"
 baseurl: "https://mikestone.me"
-paginate: 10
 
 # RSS feeds
 feed:
