@@ -35,7 +35,7 @@ But here's the rub.
 
 Despite the fact that you literally have an infinite range of ways to "name" your Mycroft, voices become a problem.
 
-![](https://i.snap.as/dP65y8I.jpg)
+![](/assets/images/dP65y8I.jpg)
 
 This is the control panel on the [Mycroft Control Panel](https://home.mycroft.ai) for voices. You have the original popey Mycroft called "British Male" (voice based on the voice of Alan Pope), you have an "American Male" voice, and you have "Google Voice", which sounds like, you guessed it, a Google Assistant device. 
 

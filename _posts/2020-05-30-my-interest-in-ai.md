@@ -27,7 +27,7 @@ A couple years ago I was doing some research on my lineage. One of the things I 
 
 The thing about 23andMe is it doesn’t just connect you with genetic relatives. It also tests for commonly known genetic diseases and conditions as well as telling you about your genetic tendencies, like how long your fingers are and your eye color. This came up with some unexpected results.
 
-![](https://i.snap.as/vsW9HKi.jpg)
+![](/assets/images/vsW9HKi.jpg)
 
 > Age-related macular degeneration (AMD) is the most common cause of irreversible vision loss among older adults. The disease results in damage to the central part of the retina (the macula), impairing vision needed for reading, driving, or even recognizing faces. This test includes the two most common variants associated with an increased risk of developing the condition.
 

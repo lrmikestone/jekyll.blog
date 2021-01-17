@@ -19,7 +19,7 @@ So, I'm still not quite 100%, but before I picked up whatever it is that's been 
 
 My primary laptop is a Gen 1 Lenovo X1 Carbon. 
 
-![](https://i.snap.as/xlsQeoR.png)
+![](/assets/images/xlsQeoR.png)
 
 My only real complaint abou the whole system was that the battery just wouldn't hold a charge. 
 
@@ -33,7 +33,7 @@ The installation was super simple. Six screws on the bottom of the case, snap th
 
 So, how did it come out?
 
-![](https://i.snap.as/ZqJOGnE.png)
+![](/assets/images/ZqJOGnE.png)
 
 Old battery on the left, new battery on the right. 
 

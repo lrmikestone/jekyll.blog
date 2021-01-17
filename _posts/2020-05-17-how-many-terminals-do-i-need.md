@@ -18,7 +18,7 @@ Day 2 of the weird stuff I do on my computer for questionable reasons, today we'
 
 So, let's get this out of the way right away. I have way too many terminals. Even I know this, and yet I can't seem to change my ways.
 
-![](https://i.snap.as/6dSAK35.png)
+![](/assets/images/6dSAK35.png)
 
 This is a small sample of my launcher bar. Visible you can see the MATE Terminal, Tilix, and the Snowflake SSH client. In fairness, Snowflake isn't really a terminal application, it's an SSH client, but 95% of the time I use it as a terminal application. 
 
@@ -31,7 +31,7 @@ So, why don't I just use one?
 
 I don't know. This seems stupid, even to me. I don't even use them the right way. Guake I use combined with screen to give myself almost a HUD. 
 
-![](https://i.snap.as/i75CO1m.png)
+![](/assets/images/i75CO1m.png)
 
 I run things like #Mycroft and htop or glances in Guake.
 

@@ -16,7 +16,7 @@ A [recent artcile](https://www.omgubuntu.co.uk/2020/06/nexdock-touch) by [Joey S
 
 <!--more-->
 
-![](https://i.snap.as/ofRlP9J.jpg)
+![](/assets/images/ofRlP9J.jpg)
 
 This isn't anything negative to say about this particular product. It looks cool, and I love the idea. The place I'd love to see this working is the mobile interface, though the Raspberry Pi is pretty cool too.
 

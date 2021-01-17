@@ -14,7 +14,7 @@ Everybody has opinions that may be controversial, and I'm no exception. This opi
 
 <!--more-->
 
-![](https://i.snap.as/h8cphYZ.png)
+![](/assets/images/h8cphYZ.png)
 
 For those that don't know, Clippy was the default avatar for the Microsoft Office Assistant in Office 97 to 2003. The actual name was Clippit, but if you point that out, most people won't know or care.
 

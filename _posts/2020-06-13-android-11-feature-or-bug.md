@@ -26,7 +26,7 @@ Android 11 has a new option to have a row of “app suggestions” at the bottom
 
 This seems pretty straight forward, and since they’re tracking that information anyway, I feel like I should at least get a feature out of it. So I turned that on.
 
-![](https://i.snap.as/BywkcMy.png)
+![](/assets/images/BywkcMy.png)
 
 And here’s the “bug” (feature?). This is my “suggestions” bar on my phone. All of those suggestions are apps that I’ve used if not regularly, at least recently. 
 

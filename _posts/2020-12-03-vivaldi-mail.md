@@ -20,7 +20,7 @@ It turns out this is a continuation of an earlier effort. The founder of Vivaldi
 
 So, with all this history behind it and me being a fan of Vivaldi, this seems like a no brainer to try. Well, I held off becaues [I think email is broken](https://mikestone.me/email-is-broken) in general, but I finaly caved and fired it up.
 
-![](https://i.snap.as/7KIwS77s.png)
+![](/assets/images/7KIwS77s.png)
 
 After the latest snapshot is installed on your system, it's pretty easy to turn on. Just go to the [Experiments page](vivaldi://experiments), and check the box. This adds the Mail, Contacts, and Calendar panels, and enables the clients. 
 

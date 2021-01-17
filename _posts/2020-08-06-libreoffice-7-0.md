@@ -14,7 +14,7 @@ LibreOffice 7.0 has just been released. I've been using LibreOffice since it was
 
 <!--more-->
 
-![](https://i.snap.as/dNjRPWe.png)
+![](/assets/images/dNjRPWe.png)
 
 First things first, LibreOffice is a great office product. For most people, it does everything they're ever going to need to do. Speaking for myself, I've been happy to use it for so long, I don't remember when I started to use it. Before it was Libre for sure.
 

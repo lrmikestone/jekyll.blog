@@ -10,7 +10,7 @@ date: 2012-07-05 11:29:53
 published: true
 ---
 
-![](https://i.snap.as/jkZWJRx.jpg)
+![](/assets/images/jkZWJRx.jpg)
 
 Recently I took my first vacation in over 3 years. A whole week in the wilds of Montana. For that whole time, I had no access to my computer. I had my phone, my tablet, and wireless access that makes 3G look screaming fast.
 

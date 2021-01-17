@@ -18,11 +18,11 @@ I’m not going to go into the nitty gritty details of the system. Everybody has
 
 Before we start, let's take a look at the system that I'm using.
 
-![neofetch with system details](https://i.snap.as/WA5kZzH.png "neofetch")
+![neofetch with system details](/assets/images/WA5kZzH.png "neofetch")
 
 Here's a quick htop of the system running not a whole lot. You can see the #Mycroft processes running in the background.
 
-![htop running](https://i.snap.as/EcGRwg6.png "htop")
+![htop running](/assets/images/EcGRwg6.png "htop")
 
 This is a pretty old system. It's a Gen1 X1 Carbon. I didn't buy it new, but Wikipedia tells me that the first [X1 Carbon](https://en.wikipedia.org/wiki/ThinkPad_X1_Carbon) was released in 2012, so that should give you an idea of what kind of hardware we're dealing with. 
 

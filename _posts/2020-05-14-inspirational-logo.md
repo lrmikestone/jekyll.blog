@@ -32,7 +32,7 @@ Stealing this directly from Wikipedia:
 
 As programming languages go, it's pretty limited. It's not something you write an operating system in. What it did for me is show me how I could enter commands on a computer keyboard and watch the computer execute those commands on the screen.
 
-![](https://i.snap.as/pz5H6cD.png)
+![](/assets/images/pz5H6cD.png)
 
 While this is pretty basic, it allows for some pretty complex things once you start to grasp the syntax. I haven't played around with it much since the 80s, but a few minutes allowed me to cobble together some fun things.
 
@@ -64,6 +64,6 @@ end
 
 This was built off of some random memories and [some code I pilfered from the Internet](https://linuxgazette.net/167/silva.html). It's nothing fancy, but when you run "ms_rotate 1", the output looks like this.
 
-![](https://i.snap.as/bbCUBT5.png)
+![](/assets/images/bbCUBT5.png)
 
 I'd really recommend giving it a look. As I said, this is not a programming language you're going to do any serious work in. You're not going to crunch the corporate database or write the newest operating system, but it's a fun language to play in, and it's a great start for kids. Who knows, it might just inspire someone.

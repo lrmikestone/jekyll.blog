@@ -16,7 +16,7 @@ A couple years ago, I bought a Pocket C.H.I.P. to tinker around with. It was a c
 
 For those of you that aren't familiar with the Pocket C.H.I.P., this is what it looks like:
 
-![](https://i.snap.as/jNN4Fl1.jpg)
+![](/assets/images/jNN4Fl1.jpg)
 
 The device has the simplest form of built in keyboard, and a touch screen. While it was a neat little idea, I found both to be mostly useless. The keyboard was difficult to use, and I only used it when no other options were available. 
 
@@ -38,7 +38,7 @@ I ran into a few glitches when I moved it up to [Buster](https://wiki.debian.org
 
 Today, I'm running the latest version of Buster on a Pocket C.H.I.P. built by a company that's been out of business for two years. 
 
-![](https://i.snap.as/bn6c4OO.png)
+![](/assets/images/bn6c4OO.png)
 
 I'm still no sure what I'm going to do with it. It's plugged into USB power and sitting next to my wireless router, so it should run virtually forever. It's not speedy by an stretch of the imagination, but it's passable. 
 

@@ -19,4 +19,4 @@ conky lets you add all sorts of information to your desktop. You can add process
 
 If you've got a couple minutes of free time and you really want to add some pop to your desktop, I'd suggest hitting The Google and digging up some information on conky. You'll be happy that you did.
 
-<img align="center" src="https://i.snap.as/OBiakRN.jpg">
+<img align="center" src="/assets/images/OBiakRN.jpg">

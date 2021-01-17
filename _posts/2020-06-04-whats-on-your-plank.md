@@ -16,7 +16,7 @@ Everybody has their way of working on their desktop. Personally, I use plank to 
 
 <!--more-->
 
-![](https://i.snap.as/BYGPW9q.png)
+![](/assets/images/BYGPW9q.png)
 
 I don't use a lot of applications on my computer. I'm pretty boring when it comes to my default list. I thought I'd go through my default picks and hopefully some of you will return the favor.
 

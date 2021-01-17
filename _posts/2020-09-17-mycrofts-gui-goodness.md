@@ -32,7 +32,7 @@ bash dev_setup.ksh
 
 Once you've got the software installed, just run "mycroft-gui-app" at your favorite launcher, and away you go.
 
-![](https://i.snap.as/CJPiAvr.png)
+![](/assets/images/CJPiAvr.png)
 
 ### Using the GUI
 

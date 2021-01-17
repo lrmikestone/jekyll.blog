@@ -26,15 +26,15 @@ Maybe it's me, but I just _can not_ get vi(m) to look good highlighting markdown
 
 Python:
 
-![](https://i.snap.as/LIfJldU.png)
+![](/assets/images/LIfJldU.png)
 
 C:
 
-![](https://i.snap.as/PtQ2iiG.png)
+![](/assets/images/PtQ2iiG.png)
 
 Markdown:
 
-![](https://i.snap.as/PtbXftw.png)
+![](/assets/images/PtbXftw.png)
 
 This is even after working on it for a while. I installed the PlasticBoy [vim-markdown](https://github.com/plasticboy/vim-markdown) addon to get this much. Prior to that, it was just plain text. Plain as plain could be.
 

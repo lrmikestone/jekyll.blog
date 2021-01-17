@@ -26,7 +26,7 @@ What if you're running Mycroft on a computer that doesn't have audio output or a
 
 The CLI client has made an appearance in several of my #ScreenShotSunday posts because I probably use the CLI of Mycroft more often than I talk to it.
 
-![](https://i.snap.as/r6MaBat.png)
+![](/assets/images/r6MaBat.png)
 
 When you run the Mycroft CLI client, you get the log output, the history, and the legend. you can also see the Mic level. I expect that the CLI client was originally intended for troubleshooting skill issues. Since I usually have my mic muted, that doesn't usually show anything.
 

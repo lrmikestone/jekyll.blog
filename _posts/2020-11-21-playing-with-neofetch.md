@@ -14,7 +14,7 @@ A couple days ago, a friend of mine asked me about a screenshot she saw displayi
 
 <!--more-->
 
-![](https://i.snap.as/WA5kZzH.png)
+![](/assets/images/WA5kZzH.png)
 
 It's been a while since I've done much with neofetch other than run it with defaults, so I had to fire up the man page to figure out how to get the raspberry logo.
 
@@ -40,7 +40,7 @@ neofetch --ascii "$(fortune|cowsay)"
 
 This has to be one of my favorites. 
 
-![](https://i.snap.as/SlfXePqH.png)
+![](/assets/images/SlfXePqH.png)
 
 Things got a little weird from here. I thought it would be cool to pipe the fortune|cowsay through lolcat to get some fun colors. Turns out that doesn't work, which was a little bit disappointing. 
 
@@ -85,7 +85,7 @@ alias neofetch="/usr/bin/neofetch --ascii /home/mike/Documents/fosstodon.txt"
 
 Now, every time I run neofetch, this is how my results come back. 
 
-![](https://i.snap.as/Tk8f1Nv7.png)
+![](/assets/images/Tk8f1Nv7.png)
 
 This isn't really useful for anything in the grand scheme of things, but it's kinda fun. 
 

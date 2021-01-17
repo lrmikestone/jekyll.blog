@@ -34,7 +34,7 @@ It annoys me that there's really no alternative for this other than you taking m
 
 That's why I was super excited today when I read [this](https://github.com/tootsuite/mastodon/pull/13820). 
 
-![](https://i.snap.as/iiBOTZo.jpg)
+![](/assets/images/iiBOTZo.jpg)
 
 I don't know when(or even if) this feature is going to be available on an instance near you, but it super exiting to me that this is even being worked on. It _looks_ like this is going to be here soon. 
 

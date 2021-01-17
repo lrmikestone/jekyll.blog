@@ -26,7 +26,7 @@ Firefox Voice isn't really a "feature" of the browser so much as it's an add-on 
 
 Installation of Firefox Voice is pretty much the same as any other add-on that you install in Firefox. There's no additional configuration or anything weird to go with it. An icon is added along with all your other add-ons.
 
-![](https://i.snap.as/Yc8bUPM.png)
+![](/assets/images/Yc8bUPM.png)
 
 Once installed, there's a key combination that you press to activate the microphone (by default), so the add-on isn't always listening to you and there's none of the privacy concerns that type of service brings. The default option is CTRL-., which is configurable in your preferences. I didn't see any need to change it though.
 

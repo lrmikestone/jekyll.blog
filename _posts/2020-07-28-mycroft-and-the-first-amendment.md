@@ -18,17 +18,17 @@ I hate patent trolls. With a passion. They use and abuse the legal system, preyi
 
 [A recent TECHDIRT article](https://www.techdirt.com/articles/20200724/18145044976/patent-troll-gets-court-to-order-startup-it-sued-to-edit-blog-post-troll-now-asks-startup-to-get-us-to-change-our-techdirt-post.shtml) brought something to my attention I hadn’t seen before. The courts in this case have made the *highly* questionable decision to tell Mycroft they need to edit the posts they’ve made around the proceedings. It’s my opinion (and obviously the opinion of the author over at TECHDIRT) that this “decision” is the wrong one. So, before Mycroft has the opportunity to comply with this frankly stupid decision, I’m capturing the original text here. I doubt it will come to the attention of Voice Tech, but if it does, this text will *not* be modified.
 
-![](https://i.snap.as/umyKpSf.png)
+![](/assets/images/umyKpSf.png)
 
 Further, the courts have asked for the removal of the emails linked to a the the bottom of this post, so I’m including those as well. Here are emails one, two, three, and four.
 
-![](https://i.snap.as/ytkQkN3.png)
+![](/assets/images/ytkQkN3.png)
 
-![](https://i.snap.as/fRfzff2.png)
+![](/assets/images/fRfzff2.png)
 
 And this is the “Final Notice” letter linked to in the original blog post.
 
-![](https://i.snap.as/paMYo7U.png)
+![](/assets/images/paMYo7U.png)
 
 The original links to these are as follows:
 

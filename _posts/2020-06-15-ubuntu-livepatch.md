@@ -28,7 +28,7 @@ The flip of that is, of course, that if you have a bad patch, Canonical will hav
 
 Add to that my inherent and spreading laziness, and Shazaam!
 
-![](https://i.snap.as/lChb6cI.png)
+![](/assets/images/lChb6cI.png)
 
 Enabling the feature is pretty easy. Flip the switch on the tab. The one gotcha that I wasn't expecting is that you're required to have an account in Canonical's portal. I actually already had one from back in the Ubuntu One days that was surprisingly still active. 
 

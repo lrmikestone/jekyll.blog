@@ -24,7 +24,7 @@ Still, there are some things that I'd like to go back to.
 
 ## World Wide Web
 
-![](https://i.snap.as/H26TaX8.png)
+![](/assets/images/H26TaX8.png)
 
 The web was simpler then. Some may say uglier, and they wouldn't be wrong. Still, there was something to be said about a web where content was King because every web site was pretty much gray background, black text, and blue underlined links. It was the late 90s before I even saw something move on the Internet, and it was a horrible animated gif.
 

@@ -18,7 +18,7 @@ My kids have gotten off school for the summer, which means the time they used to
 
 My kids are pretty young, and so when they're watching videos on the Internet, they're almost always videos about video games. The game my kids play the most isn't even really a game. It's called Roblox, and it's more of a framework than an actual game. 
 
-![](https://i.snap.as/tuOYk3X.jpeg)
+![](/assets/images/tuOYk3X.jpeg)
 
 Inside Roblox, people can make their own little games with the platform. In my opinion, it's truly horrible. I really don't like playing it.
 

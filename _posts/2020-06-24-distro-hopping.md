@@ -24,7 +24,7 @@ I'm going to start with two that I've seen in the news recently. They're both Ub
 
 This is where I'm going to kick things off I think.
 
-![](https://i.snap.as/VOz1tbi.jpg)
+![](/assets/images/VOz1tbi.jpg)
 
 UbuntuDDE is basically vanilla Ubuntu using the Deepin desktop. Deepin has been compiled from source, so privacy questions inspired by it's ties to the Chinese government should be alleviated. UbuntuDDE isn't an official "flavor" of Ubuntu, but it's got some pretty hefty endorsements. Alan Pope, the Ubuntu Budgie team, and the Ubuntu Cinnamon team helped out in it's development.
 
@@ -33,7 +33,7 @@ UbuntuDDE is basically vanilla Ubuntu using the Deepin desktop. Deepin has been 
 
 Next I'm going to delve into Ubuntu Unity. I recently wrote [an article](https://mikestone.me/ubuntu-unity) about this one, and it intrigues me. 
 
-![](https://i.snap.as/wczUWgj.jpeg)
+![](/assets/images/wczUWgj.jpeg)
 
 There are many people out there that have never liked Unity. I'm not one of them. I tried it the first time when it was part of a NetBook distro that ran on some old Dell Netbooks I had. It wasn't part of the main distro at the time, but soon would be. 
 

@@ -17,7 +17,7 @@ A long time ago on a computer far far away, there was BeOS. Long story short, th
 
 <!--more-->
 
-![](https://i.snap.as/MD3eVIW.png)
+![](/assets/images/MD3eVIW.png)
 
 Haiku is a pretty cool OS. It still has the same stylings as BeOS did twenty-ish years ago, but improvements have been made. 
 
@@ -27,19 +27,19 @@ Desktop icons align top left, and the application menu is the leaf you see on th
 
 Haiku has a standard bash terminal and it works just as you'd expect if you're from a Linux system. 
 
-![](https://i.snap.as/1v3VV92.png)
+![](/assets/images/1v3VV92.png)
 
 No OS would be complete these days without a web browser, and Haiku includes one called WebPositive. It works... OK. Not great. I was able to load most pages, but a page like [Fosstodon](https://fosstodon.org) took a long time to load. Probably close to a minute, possibly two. But, it did load.
 
-![](https://i.snap.as/bQLMY2e.png)
+![](/assets/images/bQLMY2e.png)
 
 There's an application store much like most OSs offer these days, and offers single click app installations. Unfortunately I couldn't find a better web browser than WebPositive, and it looks like the choices of apps are pretty limited. Still, if your requirements for an OS are relatively low, you can probably get by in Haiku fairly easily.
 
-![](https://i.snap.as/j8poJVI.png)
+![](/assets/images/j8poJVI.png)
 
 This was about the only hardware issue I had. Everything worked out of the box on my X1 Carbon except the web cam. It didn't see it and there was nothing I could do with the Live version of the OS that would make it work. It's possible it would have more luck with a full version of the OS installed, but I wasn't wanting to do a full install on my primary computer, so I didn't try that.
 
-![](https://i.snap.as/BYZk1dT.png)
+![](/assets/images/BYZk1dT.png)
 
 Oh, and their version of Sudoku was pathetically easy by default.
 

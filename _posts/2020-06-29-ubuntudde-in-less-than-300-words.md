@@ -16,13 +16,13 @@ I fired up my virtual machine today and finally tried out UbuntuDDE. The short a
 
 <!--more-->
 
-![](https://i.snap.as/ORJEly5.png)
+![](/assets/images/ORJEly5.png)
 
 The initial installation was a little rough for me, but I think that's more to do with the VM software than anything else. I had the ISO stored out on my Synology and the installation was crashing the VM over and over. After moving the ISO over to my local drive, the install went through perfectly.
 
 After the initial installation was complete, the desktop was really nice. It had a really refined feel to it. There was a standard bar down at the bottom which housed the shortcut icons as well as a power button and a round clock. The gear button brought up a fancy, and quite literal, control panel on the left hand side.
 
-![](https://i.snap.as/d7hlKVH.png)
+![](/assets/images/d7hlKVH.png)
 
 I _really_ liked this implementation. It put all the settings in one really easy, scrollable panel. 
 

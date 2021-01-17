@@ -18,11 +18,11 @@ Close to ten years ago, Canonical made a move that was almost universally hated.
 
 Prior to the introduction of Unity, Ubuntu looked a lot like this.
 
-![](https://i.snap.as/Ixrf71v.jpeg)
+![](/assets/images/Ixrf71v.jpeg)
 
 In a flash, it changed to this.
 
-![](https://i.snap.as/P5GeQRH.png)
+![](/assets/images/P5GeQRH.png)
 
 A lot of people didn't like Unity. I'm sometimes embarrassed to admit that I'm not one of them. Unity started out rough, but it improved quite a bit over the years. How much was a much debated subject, but on the fifth of April, 2017 Mark Shuttleworth announced that they were throwing in the towel and going back to Gnome.
 

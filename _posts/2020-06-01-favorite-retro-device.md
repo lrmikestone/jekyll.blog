@@ -16,7 +16,7 @@ My wife was trolling the Internet a few nights ago, and she ran across a list of
 
 <!--more-->
 
-![](https://i.snap.as/XltNefk.jpg)
+![](/assets/images/XltNefk.jpg)
 
 I don't remember the precise dates involved here, but it was sometime in the very late 90s. I picked up an MP3 player called a HipZip. It was a Walkman type device that used Iomega's PocketZip (Clik!) disks to store MP3 files and worked as a standard music player. 
 

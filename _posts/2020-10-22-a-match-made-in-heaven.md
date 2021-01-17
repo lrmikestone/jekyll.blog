@@ -25,7 +25,7 @@ Privacy has always been a concern with these assistants though. To make them res
 
 So, what are our options?
 
-![](https://i.snap.as/JSJwX4X.png)
+![](/assets/images/JSJwX4X.png)
 
 Admittedly, at this point they’re very limited. I’ve written about [Mycroft](https://mycroft.ai) quite a lot, and I’m a huge fan. Up until now, it’s been limited to computers and the [Mark 1](https://mycroft.ai/mark1/), but now seems like a perfect time to get into the mobile space.
 

@@ -20,7 +20,7 @@ I started using an app called [Journal](https://usejournal.com) to keep track of
 
 Unfortunately, the implementation wasn't the best for me personally. The developers were more focused on the "iMarket" than anything else, so the majority of the places it worked didn't work for me.
 
-![](https://i.snap.as/623B1ap.jpg)
+![](/assets/images/623B1ap.jpg)
 
 After [Kev](https://fosstodon.org/@kev) conned me into firing my blog back up again, I started using [markdown](https://mikestone.me/struggles-with-syntax-highlighting) for publishing my blog on [write.as](https://write.as). As I became more familiar with the syntax, I thought it would be a good way to do more than just blogging, and one of those things was notes.
 
@@ -34,7 +34,7 @@ This inspired me to try it.
 
 Download was super easy as it's just an AppImage. Nothing to do other than find a place to plop it down. Throw a +x onto the chmod and we're in business.
 
-![](https://i.snap.as/KvnBj6e.png)
+![](/assets/images/KvnBj6e.png)
 
 I've been using this for all of twenty-four hours now, and so let me give you my super experienced opinion on the software, specifically compared to Journal which I've been using.
 
@@ -54,7 +54,7 @@ $$
 
 This translates into this in Joplin:
 
-![](https://i.snap.as/rtQ9i4o.png)
+![](/assets/images/rtQ9i4o.png)
 
 I'm never going to use this, but it's cool that it's there.
 

@@ -16,7 +16,7 @@ My #Mycroft Mark I hasn’t been working lately. The little eye lights have just
 
 <!--more-->
 
-![Kernel Panic on my Mycroft Mark I](https://i.snap.as/lG759PN.jpeg)
+![Kernel Panic on my Mycroft Mark I](/assets/images/lG759PN.jpeg)
 
 Behold! Kernel Panic! It’s just not syncing! 
 

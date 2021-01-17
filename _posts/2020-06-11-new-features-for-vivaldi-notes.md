@@ -22,7 +22,7 @@ After I started using Joplin for taking notes, I was also introduced to another 
 
 Zotero is great, but it's not a general note taking application. It's more of an in depth research application. It's meant for keeping track of sources with lots and lots of detail. 
 
-![](https://i.snap.as/4u1q3MF.png)
+![](/assets/images/4u1q3MF.png)
 
 It turns out that a lot of what I was using Joplin for was exactly that. I've found that a lot of my notes have since moved from Joplin to Zotero. 
 

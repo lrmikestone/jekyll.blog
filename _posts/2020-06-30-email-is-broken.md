@@ -13,7 +13,7 @@ published: true
 
 More than sixty days ago, when [Kev](https://fosstodon.org/@kev) challenged everybody to write a blog post for one hundred days and decided to accept that challenge, I created a list of ideas for possible blog posts.
 
-![](https://i.snap.as/EGlTwXX.png)
+![](/assets/images/EGlTwXX.png)
 
 Today Kev wrote a post about how [email is not broken](https://kevq.uk/email-is-not-broken/), and I felt like now would be the perfect time to get to number one on my list.
 

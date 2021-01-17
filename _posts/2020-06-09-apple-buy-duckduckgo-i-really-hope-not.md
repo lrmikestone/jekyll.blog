@@ -32,7 +32,7 @@ If my maths are correct, that means that around 875 million of those 3.5 billion
 
 Google is not worried about Bing. Google knows it's getting its money's worth.
 
-![](https://i.snap.as/Tbi0C45.png)
+![](/assets/images/Tbi0C45.png)
 
 Bing market share is currently just above 2.5%. Google is not worried about Bing in this market. At this point there is virtually no reason for Google to stop paying Apple.
 

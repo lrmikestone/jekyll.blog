@@ -16,13 +16,13 @@ Today Twitter Support [announced a new feature](https://twitter.com/TwitterSuppo
 
 <!--more-->
 
-![](https://i.snap.as/S5iDjnZ.jpg)
+![](/assets/images/S5iDjnZ.jpg)
 
 As you compose a new Tweet, you can open replies to everyone, people you follow, or just people you mention.
 
 As an avid Mastodon user (specifically [Fosstodon](https://fosstodon.org)), this rings lots of bells for me. Here are the permissions you can apply to a toot in Mastodon.
 
-![](https://i.snap.as/Vc7jqhN.jpg)
+![](/assets/images/Vc7jqhN.jpg)
 
 One thing I did note that I found interesting is there's a slight variation in how things work. Ignoring the fact that Mastodon still has more options than Twitter's "new" configuration, there's a deviation between Twitter's "People You Follow" and Mastodon's "Followers-only". 
 

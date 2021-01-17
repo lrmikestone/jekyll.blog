@@ -22,7 +22,7 @@ Not to disappoint, I use Vivaldi.
 
 Right now on my desktop computer, I have 68 tabs open, 59 on my phone, and 23 on my laptop (been slacking I guess). When you have that many tabs open, you need to have some tools to manage them. 
 
-<center>![](https://i.snap.as/OmhUbkp.jpg)</center>
+<center>![](/assets/images/OmhUbkp.jpg)</center>
 
 One of the best tools to do that is the Tab Stack. It takes multiple tabs, compresses them down into a single tab that has multiple tabs in it. It's basically a "folder" full of tabs. 
 
@@ -30,7 +30,7 @@ Using Tab Stacks, you can group together tabs that are similar, like links you'v
 
 There are lots of things you can do with Tab Stacks, but I'm not going to get into all of them today, simply because I really want to talk about the new feature that Google has proposed. 
 
-<center>![](https://i.snap.as/pUBZSjP.png)</center>
+<center>![](/assets/images/pUBZSjP.png)</center>
 
 Now, let me get this out of the way right away. This is a cool feature, but it won't make me use Chrome again. Especially since I fully expect to see a similar feature in Vivaldi in the very near future.
 

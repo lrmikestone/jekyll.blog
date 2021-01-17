@@ -28,4 +28,4 @@ There are some things that are useless as far as I can tell. The on-screen keybo
 
 eDEX-UI is mostly useless. It doesn't do anything you can't do outside of it, and it's unnecessarily resource intensive. That being said, the interface is fun and that's enough for me. If you want have people give your screen a second look when all you're really doing is editing text, this will do it. 
 
-![](https://i.snap.as/9OpwHpr.png)
+![](/assets/images/9OpwHpr.png)

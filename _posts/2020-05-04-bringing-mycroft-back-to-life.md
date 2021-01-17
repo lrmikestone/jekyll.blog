@@ -20,13 +20,13 @@ This is really about as straight forward of a process as it can be. I’m going 
 
 1. First things first, I download the latest image and “burn” it to the SD card I’ve retrieved from the Raspberry Pi that is the basic hardware of a Mark I.
 
-![](https://i.snap.as/HzNU3IF.jpg)
+![](/assets/images/HzNU3IF.jpg)
 
-![](https://i.snap.as/hG6GFFR.png)
+![](/assets/images/hG6GFFR.png)
 
 2. After I have the image burned to the SD card, it’s replaced into the Pi.
 
-![](https://i.snap.as/JTsanqT.jpg)
+![](/assets/images/JTsanqT.jpg)
 
 3. I put the case back together, plug it in, and turn it on. 
 4. It goes through the standard start process like it’s a brand new device. 
@@ -34,18 +34,18 @@ This is really about as straight forward of a process as it can be. I’m going 
    * There is a version of the Mycroft server you can run out of your home. It’s a project that I’d love to spend more time on, but so far I’ve only used the centralized version.
 6. Once it’s registered, Mycroft starts updating.
 
-![](https://i.snap.as/E4PGP27.jpg)
+![](/assets/images/E4PGP27.jpg)
 
 7. After the updates are installed, the standard requisite reboot is performed.
 
-![](https://i.snap.as/sdqqUaA.jpg)
+![](/assets/images/sdqqUaA.jpg)
 
 8. Once it’s back online and at the current version, it pulls down the skills for every day use.
 
-![](https://i.snap.as/zmvKGcV.jpg)
+![](/assets/images/zmvKGcV.jpg)
 
 9. Once the skills are installed, Mycroft is back up and running.
 
-![](https://i.snap.as/x6U4Ztk.jpg)
+![](/assets/images/x6U4Ztk.jpg)
 
 And that’s it! Nice to have you back little buddy. Now enough slacking!
