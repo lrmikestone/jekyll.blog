@@ -1,8 +1,8 @@
 ---
-title: Mike Stone
+
 header: Mike Stone
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
-post_title: How I Extend Gnome
+title: How I Extend Gnome
 permalink: /how-i-extend-gnome/
 excerpt_separator: <!--more-->
 layout: post

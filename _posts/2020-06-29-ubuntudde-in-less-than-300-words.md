@@ -1,8 +1,8 @@
 ---
-title: Mike Stone
+
 header: Mike Stone
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
-post_title: UbuntuDDE In Less Than 300 Words
+title: UbuntuDDE In Less Than 300 Words
 permalink: /ubuntudde-in-less-than-300-words/
 excerpt_separator: <!--more-->
 layout: post

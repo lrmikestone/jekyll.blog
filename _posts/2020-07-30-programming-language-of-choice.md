@@ -1,8 +1,8 @@
 ---
-title: Mike Stone
+
 header: Mike Stone
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
-post_title: Programming Language Of Choice
+title: Programming Language Of Choice
 permalink: /programming-language-of-choice/
 excerpt_separator: <!--more-->
 layout: post

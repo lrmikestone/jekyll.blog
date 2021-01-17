@@ -1,8 +1,8 @@
 ---
-title: Mike Stone
+
 header: Mike Stone
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
-post_title: Dick Tracy the Future?
+title: Dick Tracy the Future?
 permalink: /dick-tracy-the-future/
 excerpt_separator: <!--more-->
 layout: post

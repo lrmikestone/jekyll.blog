@@ -1,8 +1,8 @@
 ---
-title: Mike Stone
+
 header: Mike Stone
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
-post_title: Second Thoughts about Linux
+title: Second Thoughts about Linux
 permalink: /second-thoughts-about-linux/
 excerpt_separator: <!--more-->
 layout: post

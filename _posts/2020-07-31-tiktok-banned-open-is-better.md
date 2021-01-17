@@ -1,8 +1,8 @@
 ---
-title: Mike Stone
+
 header: Mike Stone
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
-post_title: TikTok Banned? Open Is Better
+title: TikTok Banned? Open Is Better
 permalink: /tiktok-banned-open-is-better/
 excerpt_separator: <!--more-->
 layout: post

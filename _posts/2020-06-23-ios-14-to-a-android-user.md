@@ -1,8 +1,8 @@
 ---
-title: Mike Stone
+
 header: Mike Stone
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
-post_title: iOS 14 To An Android User
+title: iOS 14 To An Android User
 permalink: /ios-14-to-a-android-user/
 excerpt_separator: <!--more-->
 layout: post

@@ -1,8 +1,8 @@
 ---
-title: Mike Stone
+
 header: Mike Stone
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
-post_title: Two Truths And A Lie
+title: Two Truths And A Lie
 permalink: /two-truths-and-a-lie/
 excerpt_separator: <!--more-->
 layout: post

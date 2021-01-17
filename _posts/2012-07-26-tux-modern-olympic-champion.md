@@ -1,8 +1,8 @@
 ---
-title: Mike Stone
+
 header: Mike Stone
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
-post_title: Tux The Modern Olympic Champion
+title: Tux The Modern Olympic Champion
 permalink: /tux-modern-olympic-champion/
 excerpt_separator: <!--more-->
 layout: post

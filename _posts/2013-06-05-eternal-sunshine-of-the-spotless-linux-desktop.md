@@ -1,8 +1,8 @@
 ---
-title: Mike Stone
+
 header: Mike Stone
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
-post_title: Eternal Sunshine of the Spotless Linux Desktop
+title: Eternal Sunshine of the Spotless Linux Desktop
 permalink: /eternal-sunshine-of-the-spotless-linux-desktop/
 excerpt_separator: <!--more-->
 layout: post

@@ -1,8 +1,8 @@
 ---
-title: Mike Stone
+
 header: Mike Stone
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
-post_title: An Amateur Mycroft Skill
+title: An Amateur Mycroft Skill
 permalink: /an-amateur-mycroft-skill/
 excerpt_separator: <!--more-->
 layout: post

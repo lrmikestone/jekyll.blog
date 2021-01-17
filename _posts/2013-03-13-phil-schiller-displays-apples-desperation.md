@@ -1,8 +1,8 @@
 ---
-title: Mike Stone
+
 header: Mike Stone
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
-post_title: Phil Schiller Displays Apple's Desperation
+title: Phil Schiller Displays Apple's Desperation
 permalink: /phil-schiller-displays-apples-desperation/
 excerpt_separator: <!--more-->
 layout: post

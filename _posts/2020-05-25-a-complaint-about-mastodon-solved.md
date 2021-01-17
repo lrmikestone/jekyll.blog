@@ -1,8 +1,8 @@
 ---
-title: Mike Stone
+
 header: Mike Stone
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
-post_title: A Complaint About Mastodon, Solved?
+title: A Complaint About Mastodon, Solved?
 permalink: /a-complaint-about-mastodon-solved/
 excerpt_separator: <!--more-->
 layout: post

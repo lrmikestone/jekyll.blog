@@ -1,8 +1,8 @@
 ---
-title: Mike Stone
+
 header: Mike Stone
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
-post_title: Never Say Never...
+title: Never Say Never...
 permalink: /never-say-never/
 excerpt_separator: <!--more-->
 layout: post

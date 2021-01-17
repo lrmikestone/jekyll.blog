@@ -1,8 +1,8 @@
 ---
-title: Mike Stone
+
 header: Mike Stone
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
-post_title: My Text Editor Of Choice
+title: My Text Editor Of Choice
 permalink: /my-text-editor-of-choice/
 excerpt_separator: <!--more-->
 layout: post

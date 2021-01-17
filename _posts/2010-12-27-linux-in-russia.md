@@ -1,8 +1,8 @@
 ---
-title: Mike Stone
+
 header: Mike Stone
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
-post_title: Linux in Russia
+title: Linux in Russia
 permalink: /linux-in-russia/
 excerpt_separator: <!--more-->
 layout: post

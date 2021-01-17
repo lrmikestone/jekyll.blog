@@ -1,8 +1,8 @@
 ---
-title: Mike Stone
+
 header: Mike Stone
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
-post_title: A New Year And A New Challenge
+title: A New Year And A New Challenge
 permalink: /a-new-year-and-a-new-challenge/
 excerpt_separator: <!--more-->
 layout: post

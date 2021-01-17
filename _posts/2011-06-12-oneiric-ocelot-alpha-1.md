@@ -1,8 +1,8 @@
 ---
-title: Mike Stone
+
 header: Mike Stone
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
-post_title: Oneiric Ocelot - Alpha 1
+title: Oneiric Ocelot - Alpha 1
 permalink: /oneiric-ocelot-alpha-1/
 excerpt_separator: <!--more-->
 layout: post

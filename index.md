@@ -7,7 +7,7 @@ layout: default
 ---
 
 {% for post in site.posts %}
-  <h2 class="post-link"><a href="{{ post.url }}">{{ post.post_title }}</a></h2>
+  <h2 class="post-link"><a href="{{ post.url }}">{{ post.title }}</a></h2>
   <p class="meta">{{ post.date | date_to_string }}</p>
 
   {:.excerpt}

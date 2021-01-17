@@ -1,8 +1,8 @@
 ---
-title: Mike Stone
+
 header: Mike Stone
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
-post_title: Linux and the Command Line
+title: Linux and the Command Line
 permalink: /linux-and-the-command-line/
 excerpt_separator: <!--more-->
 layout: post

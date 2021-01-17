@@ -1,8 +1,8 @@
 ---
-title: Mike Stone
+
 header: Mike Stone
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
-post_title: LibreOffice 7.0
+title: LibreOffice 7.0
 permalink: /libreoffice-7-0/
 excerpt_separator: <!--more-->
 layout: post

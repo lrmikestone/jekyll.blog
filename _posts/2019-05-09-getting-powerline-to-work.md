@@ -1,8 +1,8 @@
 ---
-title: Mike Stone
+
 header: Mike Stone
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
-post_title: Getting Powerline to Work
+title: Getting Powerline to Work
 permalink: /getting-powerline-to-work/
 excerpt_separator: <!--more-->
 layout: post

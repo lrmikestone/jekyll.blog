@@ -1,8 +1,8 @@
 ---
-title: Mike Stone
+
 header: Mike Stone
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
-post_title: National Poetry Month
+title: National Poetry Month
 permalink: /national-poetry-month/
 excerpt_separator: <!--more-->
 layout: post

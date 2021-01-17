@@ -1,8 +1,8 @@
 ---
-title: Mike Stone
+
 header: Mike Stone
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
-post_title: The OS That Wasn’t – Day 4
+title: The OS That Wasn’t – Day 4
 permalink: /the-os-that-wasnt-day-4/
 excerpt_separator: <!--more-->
 layout: post

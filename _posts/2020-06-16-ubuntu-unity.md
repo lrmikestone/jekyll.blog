@@ -1,8 +1,8 @@
 ---
-title: Mike Stone
+
 header: Mike Stone
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
-post_title: Ubuntu Unity
+title: Ubuntu Unity
 permalink: /ubuntu-unity/
 excerpt_separator: <!--more-->
 layout: post

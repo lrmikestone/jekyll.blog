@@ -1,8 +1,8 @@
 ---
-title: Mike Stone
+
 header: Mike Stone
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
-post_title: Killed By Google – Day 3
+title: Killed By Google – Day 3
 permalink: /killed-by-google-day-3/
 excerpt_separator: <!--more-->
 layout: post

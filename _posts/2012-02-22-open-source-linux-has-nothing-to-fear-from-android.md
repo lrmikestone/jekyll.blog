@@ -1,8 +1,8 @@
 ---
-title: Mike Stone
+
 header: Mike Stone
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
-post_title: Open Source Linux has Nothing to Fear from Android
+title: Open Source Linux has Nothing to Fear from Android
 permalink: /open-source-linux-has-nothing-to-fear-from-android/
 excerpt_separator: <!--more-->
 layout: post

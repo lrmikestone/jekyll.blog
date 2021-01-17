@@ -1,8 +1,8 @@
 ---
-title: Mike Stone
+
 header: Mike Stone
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
-post_title: Microsoft Screwing The Linux Foundation
+title: Microsoft Screwing The Linux Foundation
 permalink: /microsoft-screwing-the-linux-foundation/
 excerpt_separator: <!--more-->
 layout: post

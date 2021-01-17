@@ -1,8 +1,8 @@
 ---
-title: Mike Stone
+
 header: Mike Stone
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
-post_title: Haiku Beta2 Released!!
+title: Haiku Beta2 Released!!
 permalink: /haiku-beta2-released/
 excerpt_separator: <!--more-->
 layout: post

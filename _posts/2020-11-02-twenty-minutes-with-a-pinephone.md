@@ -1,8 +1,8 @@
 ---
-title: Mike Stone
+
 header: Mike Stone
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
-post_title: Twenty Minutes With A Pinephone
+title: Twenty Minutes With A Pinephone
 permalink: /twenty-minutes-with-a-pinephone/
 excerpt_separator: <!--more-->
 layout: post

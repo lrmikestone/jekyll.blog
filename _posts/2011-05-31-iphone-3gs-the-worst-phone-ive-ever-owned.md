@@ -1,8 +1,8 @@
 ---
-title: Mike Stone
+
 header: Mike Stone
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
-post_title: iPhone 3Gs - The Worst Phone I've Ever Owned
+title: iPhone 3Gs - The Worst Phone I've Ever Owned
 permalink: /iphone-3gs-the-worst-phone-ive-ever-owned/
 excerpt_separator: <!--more-->
 layout: post

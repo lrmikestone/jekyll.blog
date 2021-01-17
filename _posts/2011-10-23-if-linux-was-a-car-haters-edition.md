@@ -1,8 +1,8 @@
 ---
-title: Mike Stone
+
 header: Mike Stone
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
-post_title: If Linux was a car (Hater’s edition)
+title: If Linux was a car (Hater’s edition)
 permalink: /if-linux-was-a-car-haters-edition/
 excerpt_separator: <!--more-->
 layout: post

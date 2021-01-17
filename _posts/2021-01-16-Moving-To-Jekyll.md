@@ -1,8 +1,8 @@
 ---
-title: Mike Stone
+
 header: Mike Stone
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
-post_title: Moving To Jekyll 
+title: Moving To Jekyll 
 permalink: /moving-to-jekyll/
 excerpt_separator: <!--more-->
 layout: post

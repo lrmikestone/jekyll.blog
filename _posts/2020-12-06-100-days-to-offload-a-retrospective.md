@@ -1,8 +1,8 @@
 ---
-title: Mike Stone
+
 header: Mike Stone
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
-post_title: 100 Days To Offload - A Retrospective
+title: 100 Days To Offload - A Retrospective
 permalink: /100-days-to-offload-a-retrospective/
 excerpt_separator: <!--more-->
 layout: post

@@ -1,8 +1,8 @@
 ---
-title: Mike Stone
+
 header: Mike Stone
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
-post_title: The Stupid Overwelms Me
+title: The Stupid Overwelms Me
 permalink: /the-stupid-overwelms-me/
 excerpt_separator: <!--more-->
 layout: post

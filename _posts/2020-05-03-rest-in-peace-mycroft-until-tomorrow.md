@@ -1,8 +1,8 @@
 ---
-title: Mike Stone
+
 header: Mike Stone
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
-post_title: Rest In Peace Mycroft, Until Tomorrow
+title: Rest In Peace Mycroft, Until Tomorrow
 permalink: /rest-in-peace-mycroft-until-tomorrow/
 excerpt_separator: <!--more-->
 layout: post
