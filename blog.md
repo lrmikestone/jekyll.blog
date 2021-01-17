@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Blog | Simple Jekyll
-header: Blog
-description: Where the magic happens - this is the blog!
+title: Mike's Blog
+header: Mike's Blog
+description: Thoughts Too Verbose For Social Media
 permalink: /blog/
 ---
 
