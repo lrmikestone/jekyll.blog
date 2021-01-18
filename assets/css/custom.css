@@ -28,3 +28,12 @@ nav a.current {
   border-color: var(--accent);
   background: var(--bg);
 }
+
+ul.archive {
+  list-style-type: none;
+  padding: 0;
+}
+
+ul.archive li {
+  padding-bottom: 1rem;
+}
