@@ -20,7 +20,7 @@ The first thing to do is somehow get the content from write.as. Fortunately, the
 
 After that, you're given a few different choices.
 
-![](2021-01-18-19-39-00-export-options.png)
+![](/assets/images/2021-01-18-19-39-00-export-options.png)
 
 This is where things kind of went off the rails for me at first. I downloaded them all because I didn't know which would be the easiest to work with.
 
