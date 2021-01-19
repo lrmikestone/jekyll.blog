@@ -36,7 +36,7 @@ I initially dismissed the text option because it basically just exported the mar
 
 This is where muscle memory saved me.
 
-![](2021-01-18-19-45-55-terminal-with-files.png)
+![](/assets/images/2021-01-18-19-45-55-terminal-with-files.png)
 
 I just randomly typed in "ls -alrt" in my terminal, which displays all the files in chronological order. I noticed that the text files were dated as being last modified on the date they were created on the site.
 
