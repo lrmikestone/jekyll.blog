@@ -2,78 +2,37 @@
 
 header: Mike Stone
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
-title: Migrating Posts To Jekyll
-permalink: /migrating-posts-to-jekyll/
+title: Google Limiting API Access
+permalink: /google-limiting-api-access/
 excerpt_separator: <!--more-->
 layout: post
-date: 2021-01-18 19:30:49
+date: 2021-01-19 22:10:49
 published: true
 ---
 
-I wrote in my last post about moving from [write.as](https://write.as) to Jekyll. [Kev](https://fosstodon.org/@kev) wrote an extensive [guide](https://kevq.uk/how-to-build-jekyll-site-simple-css/) on how to create a Jekyll site using [Simple.css](https://kevq.uk/simple-css-framework/), the hardest part about this process (other than customizing the new blog to my personal tastes, which I'm still working on) was moving my old content over to the new blog. Here's how I did it.
+I don't use Chrome. I don't even use "Chromium", but I do use a browser that is based on the Chromium engine. Vivaldi. I'd written several different posts about it in the past, and knowing my predilections, I probably will write several more. So why does an announcement from Google about Google specific APIs interest me?
 
 <!--more-->
 
-The first thing to do is somehow get the content from write.as. Fortunately, they've been nice enough to include an export option in the menu.
+Mostly I'm interested because I don't know if this is going to affect me personally. This is what Google had to say on the 15th:
 
-![](/assets/images/2021-01-18-19-22-38-export-menu.png)
+>During a recent audit, we discovered that some third-party Chromium based browsers were able to integrate Google features, such as Chrome sync and Click to Call, that are only intended for Google’s use. This meant that a small fraction of users could sign into their Google Account and store their personal Chrome sync data, such as bookmarks, not just with Google Chrome, but also with some third-party Chromium based browsers. We are limiting access to our private Chrome APIs starting on March 15, 2021.
+>
+>For users who accessed Google features (like Chrome sync) through a third-party Chromium based browser, their data will continue to be available in their Google Account, and data that they have stored locally will continue to be available locally. As always, users can view and manage their data on the My Google Activity page. They can also download their data from the Google Takeout page, and/or delete it here.
+Guidance for vendors of third-party Chromium based products is available on the Chromium wiki.
 
-After that, you're given a few different choices.
+They don't go so far as to name names, which is kind of frustrating to me. I wish they'd just come out and say who it's going to affect. What they do mention specifically is "Chrome sync" and "Click to Call". Neither of these features rings a bell for me as features that are present or even options in Vivaldi. I know specifically Vivaldi has it's own cloud sync and does _not_ use the Google version. Click to Call? I don't even know what that is.
 
-![](/assets/images/2021-01-18-19-39-00-export-options.png)
+![](/assets/images/2021-01-19-20-07-00-google-in-vivaldi.png)
 
-This is where things kind of went off the rails for me at first. I downloaded them all because I didn't know which would be the easiest to work with.
+What I do know is this. There are several different Google options in Vivaldi. This actually surprised me as I didn't think I had anything "Googly" turned on.
 
-It turns out that csv is the worst option. It gives you the contents of the your posts, so if that's all you're interested in, you're probably going to be fine. What it didn't give me that I wanted was a way to preserve the date that the post was made.
+Really, the only one in that list that remotely worries me is "Web Store". I do still use extensions from the Google Chrome Web Store in Vivaldi. Since it's Chromium based, it's always been compatible. I _hope_ that this is not one of the things that Google intends to cut off.
 
-I've been dragging around many of my old posts, and [my oldest](https://mikestone.me/why-linux/) dates back to 2002. Honestly, that wasn't even originally a blog post, it was a stand alone page on my website. I'm getting off into the weeds here though.
+If Google does cut that off from Vivaldi, it will do a lot of damage to non-Google Chromium based browsers. Vivaldi isn't the only 3rd party browser that uses those.
 
-I didn't want all my posts to have a new published date in 2021, so I started looking at other options. I next chose the prettified json. There was no real difference between it and the other json version, and this one was prettier.
+I need to be fully transparent here. I don't _know_ for certain that Google is cutting anything off that Vivaldi uses. I'm just going through and seeing if this is going to have any impact on me, or on people that I've recommended Vivaldi to. Hopefully, I'm just worrying about nothing. Hopefully.
 
-I spent some time digging through the json, and even wrote some really basic Python to try to export what I needed from there, but I just don't have the skills with Python to make that work. After spending an hour or more beating my head against the wall trying to make that work, I took a closer look at the text option.
+If I'm not, I guess it serves me right using a Chromium based browser that utilizes Google services.
 
-I initially dismissed the text option because it basically just exported the markdown files as text in a big zip document. The markdown as pretty much exactly as I'd entered into the page, with no further information.
-
-This is where muscle memory saved me.
-
-![](/assets/images/2021-01-18-19-45-55-terminal-with-files.png)
-
-I just randomly typed in "ls -alrt" in my terminal, which displays all the files in chronological order. I noticed that the text files were dated as being last modified on the date they were created on the site.
-
-The files had the published date!
-
-From there, things were really pretty simple. I had almost 180 posts that I wanted to move over, so I didn't wan to do this manually, but a script was a pretty simple option since all the information I needed was there and available.
-
-```
-#!/usr/bin/bash
-
-for x in *.txt
-do
-  FILE_NAME=`echo ${x}|cut -d_ -f1`
-  FILE_DATE=`stat ${x}|grep Modify|cut -d" " -f2`
-  FILE_TIME=`stat ${x}|grep Modify|cut -d" " -f 3|cut -d. -f1`
-  FILE_NAME_NEW="${FILE_DATE}-${FILE_NAME}.md"
-  POST_TITLE=`head -1 ${x}|sed s/"# "//`
-  TAIL_VALUE=`cat ${x}|wc -l`
-  TAIL_VALUE=$((${TAIL_VALUE}-1))
-
-  echo Converting ${x} to ${FILE_NAME_NEW}
-
-  echo --- >> ${FILE_NAME_NEW}
-  echo title: ${POST_TITLE} >> ${FILE_NAME_NEW}
-  echo header: Mike Stone >> ${FILE_NAME_NEW}
-  echo description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon >> ${FILE_NAME_NEW}
-  echo permalink: /${FILE_NAME}/ >> ${FILE_NAME_NEW}
-  echo 'excerpt_separator: <!--more-->' >> ${FILE_NAME_NEW}
-  echo layout: post >> ${FILE_NAME_NEW}
-  echo date: ${FILE_DATE} ${FILE_TIME} >> ${FILE_NAME_NEW}
-  echo published: true >> ${FILE_NAME_NEW}
-  echo --- >> ${FILE_NAME_NEW}
-  echo >> ${FILE_NAME_NEW}
-  tail -${TAIL_VALUE} ${x} >> ${FILE_NAME_NEW}
-
-done
-```   
-The script above was able to extract the information from the text files and place it where it belonged in the front matter of the new markdown files for Jekyll. From there it was a simple matter of dropping them into the proper directory and publishing the page with all my old content.
-
-Day 4 of the #100DaysToOffload 2021 Series.
+Day 5 of the #100DaysToOffload 2021 Series.
