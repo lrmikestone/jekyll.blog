@@ -8,7 +8,7 @@ layout: default
 
 {% for post in site.posts limit:10 %}
   <h2 class="post-link"><a href="{{ post.url }}">{{ post.title }}</a></h2>
-  <p class="meta">{{ post.date | date_to_string }}</p>
+  <p class="meta">{{ post.date | date: "%B %-d, %Y" }}</p>
 
   {:.excerpt}
   {{ post.excerpt }}
