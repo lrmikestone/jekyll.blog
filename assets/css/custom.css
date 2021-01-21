@@ -32,6 +32,7 @@ nav a.current {
 ul.archive {
   list-style-type: none;
   padding: 0;
+  margin-left:20px;
 }
 
 ul.archive li {

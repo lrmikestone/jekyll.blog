@@ -14,7 +14,7 @@ permalink: /blog/
 <h2>{{ month.name }}</h2>
 <ul class="archive">
 {% for post in month.items %}
-<li><b><a href="{{ post.url }}">{{ post.title }}</a></b><br>{{ post.date | date_to_string }}</li>
+<li><b><a href="{{ post.url }}">{{ post.title }}</a></b></li>
 {% endfor %}
 </ul>
 {% endfor %}
