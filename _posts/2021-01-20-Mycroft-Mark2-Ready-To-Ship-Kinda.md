@@ -6,7 +6,7 @@ title: Mycroft Mark II Ready To Ship, Kinda
 permalink: /mycroft-mark2-ready-to-ship-kinda/
 excerpt_separator: <!--more-->
 layout: post
-date: 2021-01-19 22:10:49
+date: 2021-01-20 22:10:49
 published: true
 ---
 
@@ -44,6 +44,6 @@ Remember, this was supposed to ship in December of 2018.
 
 I'm still excited to see progress. _Any_ progress. I don't know how long it's going to be before they have a solid shipping date for the production versions of the Mark II. How long is it going to take for them to be confident? Their initial dates from the Kickstarter had the dev kits and the production versions shipping the same month. I guess they just didn't considering their level of confidence at the the time.
 
-Hopefully, it only takes a couple months for them to feel "confident" in their dev kits. That's assuming of course that they actually work the way they're supposed to. If something goes sideways with these kits, who knows how long the production release will be deployed by. 
+Hopefully, it only takes a couple months for them to feel "confident" in their dev kits. That's assuming of course that they actually work the way they're supposed to. If something goes sideways with these kits, who knows how long the production release will be deployed by.
 
 Day 6 of the #100DaysToOffload 2021 Series.
