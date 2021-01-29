@@ -6,7 +6,7 @@ title: Anniversary Of iPad Apathy
 permalink: /anniversary-of-ipad-apathy/
 excerpt_separator: <!--more-->
 layout: post
-date: 2028-01-21 22:10:49
+date: 2021-01-28 22:10:49
 published: true
 ---
 
