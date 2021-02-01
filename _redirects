@@ -1,2 +1,3 @@
 # Redirect Write.As feed to new feed
 /feed/    /feed.xml
+/about-this-site/ /about/

@@ -4,14 +4,14 @@
 - name: About Mike
   link: /about
 
-- name: About this Site
-  link: /about-this-site
-
 - name: Contact Me
   link: /contact
 
 - name: What is Linux?
   link: /what-is-linux
+
+- name: Blogroll
+  link: /blogroll
 
 - name: Archive
   link: /blog
