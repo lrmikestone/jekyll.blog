@@ -48,13 +48,24 @@ layout: default
   </td>
 </tr>
 <tr>
-  <td></td>
+  <td>
+    <a href="https://coopermatt.com">
+      <img align="top" src="/assets/images/blogroll/mattcooper.png">
+    </a>
+    <br><br><center>Matt Cooper</center>
+
+  </td>
   <td>
     <a href="https://hunden.linuxkompis.se">
       <img align="top" src="/assets/images/blogroll/hund.png">
     </a>
     <br><br><center>Hund</center>
   </td>
-  <td></td>
+  <td>
+    <a href="https://robert.winter.ink">
+      <img align="top" src="/assets/images/blogroll/museandreason.png">
+    </a>
+    <br><br><center>Muse & Reason</center>
+  </td>
 </tr>
 </table>
