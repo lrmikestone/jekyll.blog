@@ -2,48 +2,44 @@
 
 header: Mike Stone
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
-title: JingOS Review
-permalink: /jingos-review/
+title: Big Company Bureaucracy
+permalink: /big-company-bureaucracy/
 excerpt_separator: <!--more-->
 layout: post
-date: 2021-02-06 23:45:49
+date: 2021-02-11 23:45:49
 published: true
 ---
 
-A new Linux distro called JingOS has recently graced the Internet with its presence, so I thought that I'd give it a whirl and see what I thought of it.
+I have a day job. Of course I have a day job. It's not like [Fosstodon](https://fosstodon.org) pays my bills. This week, my day job has been more than a little draining. I'm going to drop that in the lap of "Big Company Bureaucracy".
 
 <!--more-->
 
-JingOS is a product of a Chinese company called Jingling Tech, who has a team of "very experienced Linux experts who had previously worked at Lenovo, Alibaba, Samsung, Canonical/Ubuntu, Trolltech and other famous IT Companies" according to their [about page](https://en.jingos.com/about/). The product is billed as "The World’s First iPadOS-style Linux Distro", and I can confirm that it definitely has iPadOS stylings.
+I grew up in a small town in rural Montana. Saying "rural" and Montana in the same sentence is kind of redundant if you know much about Montana. Even it's big cities are kind of rural.
 
-Before I even got into the OS, I ran into something that concerned me.
+I started working pretty young. My first jobs were jobs where I was quite often by myself in the middle of a field moving irrigation pipe or putting hay bales on the back of a flat bed. If I had company, it was another person fifty yards from me moving a different line of pipe, or on the other side of the truck hucking bales. Not a lot of conversations.
 
-![](/assets/images/jingos_information_collection.png)
+Eventually, I went off to college and got more and more technical jobs. Each time I got a new job, it always seemed to be with a bigger company than the last. I think, finally, I've reached the limits to what I can stand.
 
-Before you even start, you've consented to letting the company collect your information. I don't really like the fact that a Chinese company is collecting undisclosed information about me (or anybody) with a Linux distro.
+Of course, there's benefits to working for a big company. To name one, budgets are significantly different when your company is making billions in profit than they are when your company is twenty people in a modified apartment building.
 
-![](/assets/images/jingos_user_count.png)
+The problem with big companies is with size comes bureaucracy. Lots of it.
 
-Moving on through the boot process I find that not many people have gone down this trail before.
+This week, I've literally spent more than three days just trying to get something installed on a server I use. I don't have root access, or I'd just do it myself, but I can't have root access because of concerns about separation of duties. So, I have a piece of third party software I want to install and I have yet to figure out what hoops I have to jump through just to get that done.
 
-Moving forward, I finally end up on the "desktop".
+I know this will fix the issue I'm having because I installed it on my home computer and tested it in less than a minute. It's super simple. Literally two commands and less than ten megabytes to download.
 
-![](/assets/images/jingos_desktop_picture.png)
+But I can't get that done.
 
-Here the iPadOS stylings are pretty obvious. I obviously didn't take this screenshot. I stole it from their webpage as I already deleted the VM and didn't think to take a shot of the default desktop. I didn't have a tablet that would run this, so I was using a VM on my desktop computer. It made moving around more than a little awkward. I would _definitely_ not recommend this distro for a desktop computer, but it could be interesting for a tablet or a phone. The [PineTab](https://www.pine64.org/pinetab/) comes to mind, but I'm not sure it has enough power to actually pull off running JingOS.
+That's just one of so many problems I've run into this week, I could rant for hours about it. I was so frustrated today I snapped at my five year old. When I saw how sad she looked, I apologized and tried to explain that it wasn't her, it was this thing at work that was making me angry. She nodded and walked out of the room only to come back almost immediately with a pudding cup and a Diet Mountain Dew for me. She said she hoped it made me feel better. It did, but not about work.
 
-![](/assets/images/jingos_installation_fail.png)
+I've been with this company for almost ten years now. It's the longest I've ever stayed at a single job. Before that it was just short of five years, and before that barely over three.
 
-This version of JingOS is still well in the alpha stages, but I thought that the speed of the OS might do with an installation instead of running in Live mode. Unfortunately, trying to do the installation brought up this screen and nothing more. It never went any further and I couldn't get an installation to complete.
+Maybe it's time to think about moving on? Maybe it's time break that streak of only working for bigger and bigger companies?
 
-Despite failure to install, I plinked around the OS for a little bit. Much of the OS didn't work in my "desktop" environment, expecting a touch screen at the very least, which my VM wouldn't offer even if my desktop had provided it.
+I remember fondly the days where I could walk over to the desk of the NetSec guy and ask him to open a port for me on the firewall. I'd fill out the paperwork for the request sitting at his desk while he made the change. Seriously, those were the days.
 
-![](/assets/images/jingos_nonenglish_stuff.png)
+Now, I feel like I'm just constantly beating my head against this massive wall of bureaucracy, and it takes forever to accomplish the most simple task. I understand why people with even a basic understanding of technology sometimes go rogue and throw a Pi on the network or something similar. The bureaucracy is sometimes just too much.
 
-I did notice that there was still a fair amount of Chinese language stuff, even in the English version of the distro. This wasn't just in tucked away corners either. I'm giving JingOS a fair amount of leeway since it's still only a .6 version. I'm hoping that we can see some of the rough edges worked out before the final release.
+Maybe I've reached the point where it is for me too.
 
-The largest issue I saw with this distro is actually nothing to do with the distro itself. I just don't know where you're going to run this thing. I don't know of a tablet based system that will run it. _Maybe_ a [Lenovo Yoga](https://www.lenovo.com/us/en/yoga) would be good way to use this? I don't think the PineTab has the juice for it. Unless there's another company that Jingling Tech is working with to provide hardware, it's going to be a rough ride getting a system going that has the capability to run the OS and still has the form factor it needs.
-
-I'm anxious to see where this distro goes in the future, even though I have some qualms about its origins. I would also like to see some more to differentiate it from the actual iPadOS. It's close enough to the Apple version that I could see Apple chasing this thing away using the courts. If this had some hardware to actually use it on, I think it could be have the usability to garner mainstream support.  
-
-Day 10 of the #100DaysToOffload 2021 Series.
+Day 11 of the #100DaysToOffload 2021 Series.
