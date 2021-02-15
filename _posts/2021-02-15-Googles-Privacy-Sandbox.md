@@ -36,4 +36,4 @@ So, Google said that this will be available for testing in March of 2021. Is thi
 
 So, my thoughts? I think Google is serving Google. I think with FLoC and browsers parsing through the pages you're looking at, Google may actually increase the amount of information they're gathering. I think Google is going to do all that while hurting their competitors and distracting the attention of everybody else.
 
-Day 11 of the #100DaysToOffload 2021 Series.
+Day 11 of the #100DaysToOffload 2021 Series
