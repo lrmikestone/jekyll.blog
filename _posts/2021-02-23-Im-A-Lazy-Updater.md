@@ -47,6 +47,8 @@ By using the yes tool, I'm basically just answering yes to any prompts that come
 
 By setting up these aliases, I'm creating a simple, one word command that I can enter on any of my computers that will update my computer to the latest and greatest without me having to think about whether I'm using Fedora, or Ubuntu, or Manjaro. It just gets the job done.
 
-Most of the time. You know, when it doesn't blow up the whole thing.
+Most of the time.
+
+You know, when it doesn't blow up the whole thing.
 
 Day 12 of the #100DaysToOffload 2021 Series.
