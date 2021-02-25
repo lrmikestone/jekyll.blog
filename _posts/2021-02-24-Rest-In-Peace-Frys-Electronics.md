@@ -16,26 +16,20 @@ Today I learned that my go to electronics store is going out of business. This i
 
 I've been worried about Fry's for a while. For those that don't know, Fry's is an American electronics store in mostly the western United States. Historically they've been the store that I go to to get a decent selection of nerd stuff that I don't want to wait to pick up on on the Internet.
 
-<center>
 ![](/assets/images/frys_feb_2018.jpg)
-</center>
 
 I got all sorts of stuff there. Robots for my kids. The computer I'm typing on right now. More Raspberry Pis than I care to count. USB sticks and bags of gummy bears. You name it, I probably bought it at Fry's.
 
 Fry's was kind of a unique place to go. There weren't that many of them. Just over thirty, but I was privileged to live somewhere there were two within a short drive.
 
-<center>
 ![](/assets/images/phoenix_pic1.jpg)
 ![](/assets/images/tempe_pic1.jpg)
-</center>
 
 Each store had it's own theme. The ones here in town were Golf and some kind of Mayan temple (I think?). Others I'd seen was a slot machine in Las Vegas and a alien crash site. I've been to a couple others, but I don't remember what their theme was and I'm honestly too lazy to go look it up. This didn't have any impact on its products. It was just a fun little side gimmick.
 
 The problem became apparent in 2019. Fry's said that due to tariffs impacting their product imports from China, they were going full consignment. I don't know (or care) if that's true, but when Fry's went consignment, the shelves went bare.  
 
-<center>
 ![](/assets/images/last_time_frys.jpg)
-</center>
 
 I asked people working there if everything was alright, and they assured me that it was. Still, it was hard to believe them with shelves like these.
 
