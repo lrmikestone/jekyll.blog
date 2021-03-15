@@ -1,14 +1,14 @@
 ---
-title: Contact Me 
-header: Contact Me 
-description: How to contact Mike. 
+header: Mike Stone
+description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
+title: Contact Me
 permalink: /contact/
 layout: default
 ---
 
 # Contact Me
 
-You can reach me via [email](mailto:mike@fosstodon.org) or on [Fosstodon](https://fosstodon.org/@mike "Fosstodon"). 
+You can reach me via [email](mailto:mike@fosstodon.org) or on [Fosstodon](https://fosstodon.org/@mike "Fosstodon").
 
 Also, these days it seems we’re being watched constantly. If you want to send me something a little bit more secure, here’s my public key:
 ```
