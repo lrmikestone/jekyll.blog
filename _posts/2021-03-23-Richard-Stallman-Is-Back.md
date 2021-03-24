@@ -32,7 +32,7 @@ It's been said that the reference I'm using here is bad and that I need to inclu
 
 Here is the complete text of the comment made by Stallman:
 
->Dubya has nominated [another caveman](https://web.archive.org/web/20030720043609/http://mailer.democrats.org:80/rdr/002KK007v70001D) for a federal appeals court. Refreshingly, the Democratic Party is organizing opposition.
+>Dubya has nominated [another caveman](https://web.archive.org/web/20030720043609/http://mailer.democrats.org:80/rdr/002KK007v70001D) for a federal appeals court. Refreshingly, the Democratic Party is organizing opposition.<br>
 [Reference updated on 2018-05-10 because the [old link](http://mailer.democrats.org/rdr/002KK007v70001D) was broken.]<br><br>
 >The nominee is quoted as saying that if the choice of a sexual partner were protected by the Constitution, "prostitution, adultery, necrophilia, bestiality, possession of child pornography, and even incest and pedophilia" also would be. He is probably mistaken, legally--but that is unfortunate. All of these acts should be legal as long as no one is coerced. They are illegal only because of prejudice and narrowmindedness.<br><br>
 >Some rules might be called for when these acts directly affect other people's interests. For incest, contraception could be mandatory to avoid risk of inbreeding. For prostitution, a license should be required to ensure prostitutes get regular medical check-ups, and they should have training and support in insisting on use of condoms. This will be an advance in public health, compared with the situation today.<br><br>
