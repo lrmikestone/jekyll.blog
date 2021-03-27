@@ -1,7 +1,7 @@
 ---
 title: About Mike
-header: About Mike
-description: This page tells you a little bit about Mike.
+header: Mike Stone
+description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
 permalink: /about/
 layout: default
 ---
