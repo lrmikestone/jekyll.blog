@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Mike's Blog
-header: Mike's Blog
-description: Thoughts Too Verbose For Social Media
+header: Mike Stone
+description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
 permalink: /blog/
 ---
 

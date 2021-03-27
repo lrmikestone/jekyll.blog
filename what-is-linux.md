@@ -1,7 +1,7 @@
 ---
-title: What is Linux? 
-header: What is Linux? 
-description: A page to describe what Linux is for people who are not aware. 
+title: What is Linux?
+header: Mike Stone
+description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
 permalink: /what-is-linux/
 layout: default
 ---
