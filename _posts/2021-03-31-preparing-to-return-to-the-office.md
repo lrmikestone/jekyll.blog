@@ -27,7 +27,7 @@ Mouse wise, I'm probably going to go with a Razer. Why? Because I like them. The
 
 Keyboards are a little bit more complex. There are a myriad of different things to consider when it comes to keyboards. I like mechanical keyboards. The feel of them is just better in my opinion, but I have to take into consideration the noise factor and how that will impact people sitting around me. At home I'm using blues, but I think that might be a little loud for corporate America. I'd like to get a keyboard that's small enough to conveniently fit into a backpack, but not one that's going to feel cramped when I'm typing on it. I'd also like to get something off the shelf rather than fall down the rabbit hole of custom keyboard builds, which I just don't have the time to do right now.
 
-![Just for Reference](/assets/images/v60mini1.jpg)
+![](/assets/images/v60mini1.jpg "Just for Reference")
 
 I'm hoping the combined knowledge of the Internet can give me a few suggestions that will meet my needs and not break the bank, though I'd prefer to get something nice and not skimp just to save a couple dollars.
 
