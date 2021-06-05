@@ -23,11 +23,21 @@ header {
 }
 
 nav a:hover,
+nav a.nav-current {
+  background: var(--border);
+  color: var(--bg) !important;
+    font-weight: 700;
+    opacity: 1;
+}
+
+/*
+nav a:hover,
 nav a.current {
   color: var(--accent) !important;
   border-color: var(--accent);
   background: var(--bg);
 }
+*/
 
 ul.archive {
   list-style-type: none;
