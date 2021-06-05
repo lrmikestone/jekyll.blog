@@ -29,7 +29,7 @@ Honestly, I feel like this one is a super strange feature. If you're a Twitter B
 
 Again, this is just a weird feature in my mind. People that tend make long "posts" over many, many tweets can be consolidated down to look more like an article. I _suppose_ that's helpful? Occasionally? Maybe?
 
-### Undoa
+### Undo
 ![](/assets/images/twitter_blue_undo.png)
 
 This is probably the most useful of the new "features" that Twitter is announcing. It's really just a "stage" post where you can proof read before you hit Send a second time. Less an "Undo" and more a "Are You Sure" screen.
