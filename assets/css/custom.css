@@ -23,9 +23,10 @@ header {
 }
 
 nav a:hover,
-nav a.nav-current {
-  background: var(--border);
-  color: var(--bg) !important;
+nav a.nav-current,
+nav a.current {
+  background: var(--bg);
+  color: var(--accent) !important;
     font-weight: 700;
     opacity: 1;
 }
