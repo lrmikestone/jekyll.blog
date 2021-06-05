@@ -19,17 +19,17 @@ So, what the heck is Twitter Blue?
 
 Well, it's Twitter's latest attempt to make money. It's a subscription that for about $3 American you can get yourself some extra features. Features like:
 
-1. Folders.
+### Folders
 ![](/assets/images/twitter_blue_folders.png)
 
 Honestly, I feel like this one is a super strange feature. If you're a Twitter Blue subscriber, you can organized all your saved tweets into folders. Do a lot of people _save_ tweets that way?
 
-2. Reader Mode.
+### Reader Mode
 ![](/assets/images/twitter_blue_reader.png)
 
 Again, this is just a weird feature in my mind. People that tend make long "posts" over many, many tweets can be consolidated down to look more like an article. I _suppose_ that's helpful? Occasionally? Maybe?
 
-3. Undo.
+### Undoa
 ![](/assets/images/twitter_blue_undo.png)
 
 This is probably the most useful of the new "features" that Twitter is announcing. It's really just a "stage" post where you can proof read before you hit Send a second time. Less an "Undo" and more a "Are You Sure" screen.
