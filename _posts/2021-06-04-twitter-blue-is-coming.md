@@ -36,6 +36,6 @@ This is probably the most useful of the new "features" that Twitter is announcin
 
 All in all, the features of Twitter Blue in no way encourage me to become a member. I'm already more of a fan of Mastodon, and this isn't tempting me to go back to the cesspool that is Twitter. I wouldn't pay $1 for this, let alone $3.
 
-But hey, maybe I'm the weird one here. Maybe Twitter will be overwhelmed with subscribers immediately and this will become a runaway success. Maybe. 
+But hey, maybe I'm the weird one here. Maybe Twitter will be overwhelmed with subscribers immediately and this will become a runaway success. Maybe.
 
-Day 25 of the #100DaysToOffload 2021 Series.
+Day 26 of the #100DaysToOffload 2021 Series.
