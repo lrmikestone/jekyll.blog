@@ -2,16 +2,16 @@
   link: /
 
 - name: About Mike
-  link: /about
+  link: /about/
 
 - name: Contact Me
-  link: /contact
+  link: /contact/
 
 - name: What is Linux?
-  link: /what-is-linux
+  link: /what-is-linux/
 
 - name: Blogroll
-  link: /blogroll
+  link: /blogroll/
 
 - name: Archive
-  link: /blog
+  link: /blog/
