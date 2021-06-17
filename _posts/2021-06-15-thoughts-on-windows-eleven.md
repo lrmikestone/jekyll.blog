@@ -25,4 +25,6 @@ There is one thing that does interest me, and that's this:
 
 I really like that option. It's a good option to have and a great way to implement it. I hope I'll see DEs start to implement that feature soon because I like it but not enough to use Windows to get it.
 
+<iframe src="https://pixelfed.social/p/mikestone/268218366676832256/embed?caption=true&likes=false&layout=full" class="pixelfed__embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script async defer src="https://pixelfed.social/embed.js"></script>
+
 Day 27 of the #100DaysToOffload 2021 Series.
