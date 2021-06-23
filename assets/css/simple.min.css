@@ -45,7 +45,7 @@ header{
     position:relative;
     left:50%;
     right:50%;
-    margin-left:-50vw;
+    margin-left:10vw;
     margin-right:-50vw
 }
 header h1,header p{
