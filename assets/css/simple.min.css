@@ -23,7 +23,7 @@ html{
 body{
     color:var(--text);
     background:var(--bg);
-    font-size:var(--base-fontsize);
+    font-size:var(--base-fontsize); 
     line-height:var(--line-height);
     display:flex;
     min-height:100vh;
@@ -45,7 +45,7 @@ header{
     position:relative;
     left:50%;
     right:50%;
-    margin-left:-65vw;
+    margin-left:-50vw;
     margin-right:-50vw
 }
 header h1,header p{

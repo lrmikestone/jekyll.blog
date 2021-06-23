@@ -26,15 +26,6 @@ nav a.current {
     opacity: 1;
 }
 
-/*
-nav a:hover,
-nav a.current {
-  color: var(--accent) !important;
-  border-color: var(--accent);
-  background: var(--bg);
-}
-*/
-
 ul.archive {
   list-style-type: none;
   padding: 0;
