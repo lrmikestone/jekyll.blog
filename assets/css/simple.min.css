@@ -23,7 +23,7 @@ html{
 body{
     color:var(--text);
     background:var(--bg);
-    font-size:var(--base-fontsize); 
+    font-size:var(--base-fontsize);
     line-height:var(--line-height);
     display:flex;
     min-height:100vh;
@@ -39,7 +39,7 @@ body{
 header{
     background:var(--accent-bg);
     border-bottom:1px solid var(--border);
-    text-align: left;
+    text-align: center;
     padding:2rem .5rem;
     width:100vw;
     position:relative;
