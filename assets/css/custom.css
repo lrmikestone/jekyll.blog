@@ -3,11 +3,6 @@
   font-family: var(--sans-font);
 }
 
-header {
-    border-bottom: 1px solid var(--border);
-    text-align: center
-  }
-
 .post-link a {
   line-height: 1;
 }
