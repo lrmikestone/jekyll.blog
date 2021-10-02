@@ -25,6 +25,6 @@ If you _do_ want to the world available in the cloud and have those NPCs exposed
 
 There are even more things to consider about the lives of the AI in the game. The NPCs are designed to play a particular role in the game. One NPC is the business woman, and one NPC is the homeless guy. If we look at that as disposable code, it's not a big deal. If you look at it like you've defined the lives of living beings, it starts to feel like a big deal. You've given one NPC the good life with the fancy car and the amazing house while the other warms their digital hands in the simulated cold with burning garbage. Since we literally control.. well... everything in that universe that doesn't need to be true but if we want it to reflect the universe that _we_ live in it does.
 
-I guess I can stop here, and just say that I really enjoyed the movie, but maybe it made me think about a lot of things that it probably never intended. 
+I guess I can stop here, and just say that I really enjoyed the movie, but maybe it made me think about a lot of things that it probably never intended. Maybe the answers are much more obvious to people smarter than myself. I look forward to hearing from anybody who has the answers to my question in the [Mastodon Thread](https://fosstodon.org/@mike/107030405342302666).
 
 Day 32 of the #100DaysToOffload 2021 Series.
