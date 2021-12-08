@@ -2,7 +2,7 @@
 header: Mike Stone
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
 title: "My Reivew of Google Pixel 6 Pro"
-permalink: /centralization-its-more-than-just-facebook/
+permalink: /my-review-of-google-pixel-6-pro/
 excerpt_separator: <!--more-->
 layout: post
 date: "2021-12-03 08:28:00 -0700"
@@ -33,6 +33,6 @@ Speed. This phone has it. Lots of it. It's noticeably faster than the Pixel 5 I 
 
 Speaking of the camera, one of the software features that I could go on and on about is the Magic Eraser. Technically this feature is in the Google Photos app, but sue me. This feature is amazing, frankly. I've literally spent _hours_ on this phone just removing stuff from my pictures. Then I put it back and remove it all over again. Honestly, I think I'd have considered upgrading to this phone just for this feature alone.
 
-I'm happy with the phone. Very happy with it. If you're in the market for an Android phone, I'd highly suggest considering it as an option. 
+I'm happy with the phone. Very happy with it. If you're in the market for an Android phone, I'd highly suggest considering it as an option.
 
 Day 36 of the #100DaysToOffload 2021 Series.
