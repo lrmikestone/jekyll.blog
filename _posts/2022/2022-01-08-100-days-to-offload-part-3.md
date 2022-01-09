@@ -5,7 +5,7 @@ title: "100 Days to Offload Part 3"
 permalink: /100-days-to-offload-part-3/
 excerpt_separator: <!--more-->
 layout: post
-date: "2022-01-08 22:05:00 -0700"
+date: "2022-01-08 21:05:00 -0700"
 published: true
 ---
 
