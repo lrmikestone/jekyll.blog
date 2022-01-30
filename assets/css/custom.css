@@ -37,7 +37,7 @@ ul.archive li {
 }
 
 .wrapper {
-  height: 10vh;
+  height: 5vh;
   /*This part is important for centering*/
   display: flex;
   align-items: center;
@@ -51,7 +51,7 @@ ul.archive li {
   overflow: hidden;
   border-right: 3px solid;
   font-family: monospace;
-  font-size: 2em;
+  font-size: 1em;
 }
 
 @keyframes typing {
