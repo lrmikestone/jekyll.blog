@@ -37,7 +37,7 @@ ul.archive li {
 }
 
 .wrapper {
-  height: 100vh;
+  height: 10vh;
   /*This part is important for centering*/
   display: flex;
   align-items: center;
