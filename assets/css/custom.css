@@ -37,7 +37,7 @@ ul.archive li {
 }
 
 .wrapper {
-  height: 5vh;
+  height: 1vh;
   /*This part is important for centering*/
   display: flex;
   align-items: center;
@@ -46,7 +46,7 @@ ul.archive li {
 
 .typing-text {
   width: 74ch;
-  animation: typing 2s steps(75), blink .5s step-end infinite alternate;
+  animation: typing 2s steps(74), blink .5s step-end infinite alternate;
   white-space: nowrap;
   overflow: hidden;
   border-right: 3px solid;
