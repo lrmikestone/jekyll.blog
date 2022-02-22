@@ -1,6 +1,6 @@
 ---
 
-header: Mike Stone
+
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
 title: Twitter Got Hacked, Is Mastodon Immune?
 permalink: /twitter-got-hacked-is-mastodon-immune/

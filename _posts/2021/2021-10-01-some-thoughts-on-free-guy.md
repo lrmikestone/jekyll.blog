@@ -1,5 +1,5 @@
 ---
-header: Mike Stone
+
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
 title: "Some Thoughts On Free Guy"
 permalink: /some-thoughts-on-free-guy/

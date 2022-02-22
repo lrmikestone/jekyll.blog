@@ -1,6 +1,6 @@
 ---
 
-header: Mike Stone
+
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
 title: My Favorite RSS Feeds
 permalink: /my-favorite-rss-feeds/

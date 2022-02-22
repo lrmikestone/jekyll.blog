@@ -1,6 +1,6 @@
 ---
 
-header: Mike Stone
+
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
 title: Amazing Black Friday Deals on Linux!!!
 permalink: /amazing-black-friday-deals-on-linux/

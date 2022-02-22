@@ -1,6 +1,6 @@
 ---
 
-header: Mike Stone
+
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
 title: Blackberry a Defense for Google Against Rockstar?
 permalink: /blackberry-a-defense-for-google-against-rockstar/

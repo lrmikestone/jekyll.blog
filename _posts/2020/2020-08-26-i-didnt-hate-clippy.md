@@ -1,6 +1,6 @@
 ---
 
-header: Mike Stone
+
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
 title: I Didn't Hate Clippy
 permalink: /i-didnt-hate-clippy/

@@ -1,5 +1,5 @@
 ---
-header: Mike Stone
+
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
 title: "My Reivew of Google Pixel 6 Pro"
 permalink: /my-review-of-google-pixel-6-pro/

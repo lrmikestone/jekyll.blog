@@ -1,5 +1,5 @@
 ---
-header: Mike Stone
+
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
 title: "Preparing To Return To The Office - Keyboard Recommendations"
 permalink: /preparing-to-return-to-the-office/

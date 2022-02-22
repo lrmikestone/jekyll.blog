@@ -1,5 +1,5 @@
 ---
-header: Mike Stone
+
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
 title: "Twitter Blue Is Coming"
 permalink: /twitter-blue-is-coming/

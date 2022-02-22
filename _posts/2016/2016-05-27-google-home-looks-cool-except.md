@@ -1,6 +1,6 @@
 ---
 
-header: Mike Stone
+
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
 title: Google Home Looks Cool, Except....
 permalink: /google-home-looks-cool-except/

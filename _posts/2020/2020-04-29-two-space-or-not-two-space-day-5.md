@@ -1,6 +1,6 @@
 ---
 
-header: Mike Stone
+
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
 title: Two Space Or Not Two Space – Day 5
 permalink: /two-space-or-not-two-space-day-5/

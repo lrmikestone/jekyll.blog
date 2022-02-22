@@ -1,6 +1,6 @@
 ---
 
-header: Mike Stone
+
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
 title: An Amateur Mycroft Skill
 permalink: /an-amateur-mycroft-skill/

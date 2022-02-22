@@ -1,6 +1,6 @@
 ---
 
-header: Mike Stone
+
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
 title: A Few Days With A PineTab
 permalink: /a-few-days-with-a-pinetab/

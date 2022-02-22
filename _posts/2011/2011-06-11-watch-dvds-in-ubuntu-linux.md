@@ -1,6 +1,6 @@
 ---
 
-header: Mike Stone
+
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
 title: Watch DVDs in Ubuntu Linux
 permalink: /watch-dvds-in-ubuntu-linux/

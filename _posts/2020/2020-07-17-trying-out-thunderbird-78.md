@@ -1,6 +1,6 @@
 ---
 
-header: Mike Stone
+
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
 title: Trying Out Thunderbird 78
 permalink: /trying-out-thunderbird-78/

@@ -1,6 +1,6 @@
 ---
 
-header: Mike Stone
+
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
 title: Merging Your Mobile With Your Desktop
 permalink: /merging-your-mobile-with-your-desktop/

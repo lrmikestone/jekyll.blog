@@ -1,5 +1,5 @@
 ---
-header: Mike Stone
+
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
 title: "A New Version Of JingOS Has Been Released"
 permalink: /a-new-version-of-jing/

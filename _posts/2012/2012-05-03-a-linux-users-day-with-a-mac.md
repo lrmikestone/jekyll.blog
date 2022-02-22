@@ -1,6 +1,6 @@
 ---
 
-header: Mike Stone
+
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
 title: A Linux User's Day with a Mac
 permalink: /a-linux-users-day-with-a-mac/

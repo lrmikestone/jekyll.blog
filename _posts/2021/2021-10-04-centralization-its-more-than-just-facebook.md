@@ -1,5 +1,5 @@
 ---
-header: Mike Stone
+
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
 title: "Centralization: It's More Than Just Facebook"
 permalink: /centralization-its-more-than-just-facebook/

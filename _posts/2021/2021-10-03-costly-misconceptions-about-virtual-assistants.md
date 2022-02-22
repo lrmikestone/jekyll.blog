@@ -1,5 +1,5 @@
 ---
-header: Mike Stone
+
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
 title: "A Costly Misconception About Virtual Assistants"
 permalink: /a-costly-misconception-about-virtual-assistants/

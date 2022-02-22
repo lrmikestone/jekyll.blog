@@ -1,5 +1,5 @@
 ---
-header: Mike Stone
+
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
 title: "Microsoft Inventing New Reasons To Use Linux"
 permalink: /microsoft-inventing-new-reasons-to-use-linux/

@@ -1,5 +1,5 @@
 ---
-header: Mike Stone
+
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
 title: "Enterprise Macs Look Tempting"
 permalink: /enterprise-macs-look-tempting/

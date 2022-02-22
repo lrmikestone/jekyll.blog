@@ -1,6 +1,6 @@
 ---
 
-header: Mike Stone
+
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
 title: Apple Buy DuckDuckGo? I REALLY Hope Not
 permalink: /apple-buy-duckduckgo-i-really-hope-not/

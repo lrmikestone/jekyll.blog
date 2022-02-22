@@ -1,6 +1,6 @@
 ---
 
-header: Mike Stone
+
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
 title: Migrating Posts To Jekyll
 permalink: /migrating-posts-to-jekyll/
@@ -61,7 +61,7 @@ do
 
   echo --- >> ${FILE_NAME_NEW}
   echo title: ${POST_TITLE} >> ${FILE_NAME_NEW}
-  echo header: Mike Stone >> ${FILE_NAME_NEW}
+  echo  >> ${FILE_NAME_NEW}
   echo description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon >> ${FILE_NAME_NEW}
   echo permalink: /${FILE_NAME}/ >> ${FILE_NAME_NEW}
   echo 'excerpt_separator: <!--more-->' >> ${FILE_NAME_NEW}

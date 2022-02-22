@@ -1,6 +1,6 @@
 ---
 
-header: Mike Stone
+
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
 title: Stagnant Pools are Unhealthy For You
 permalink: /stagnant-pools-are-unhealthy-for-you/

@@ -1,6 +1,6 @@
 ---
 
-header: Mike Stone
+
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
 title: Screw those Arrogant Linux Using Jerks
 permalink: /screw-those-arrogant-linux-using-jerks/

@@ -1,6 +1,6 @@
 ---
 
-header: Mike Stone
+
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
 title: Mycroft And The First Amendment
 permalink: /mycroft-and-the-first-amendment/

@@ -1,6 +1,6 @@
 ---
 
-header: Mike Stone
+
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
 title: TikTok Banned? Open Is Better
 permalink: /tiktok-banned-open-is-better/

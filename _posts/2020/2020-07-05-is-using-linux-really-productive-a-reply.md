@@ -1,6 +1,6 @@
 ---
 
-header: Mike Stone
+
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
 title: Is Using Linux Really Productive? - A Reply
 permalink: /is-using-linux-really-productive-a-reply/

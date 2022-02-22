@@ -1,5 +1,5 @@
 ---
-header: Mike Stone
+
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
 title: "Do I Really Want A Linux Phone"
 permalink: /do-i-really-want-a-linux-phone/

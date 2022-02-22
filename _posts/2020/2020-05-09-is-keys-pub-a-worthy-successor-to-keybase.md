@@ -1,6 +1,6 @@
 ---
 
-header: Mike Stone
+
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
 title: Is keys.pub A Worthy Successor To Keybase?
 permalink: /is-keys-pub-a-worthy-successor-to-keybase/

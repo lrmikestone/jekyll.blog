@@ -1,6 +1,6 @@
 ---
 
-header: Mike Stone
+
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
 title: Ubiquitous Linux, It's Everywhere
 permalink: /ubiquitous-linux-its-everywhere/

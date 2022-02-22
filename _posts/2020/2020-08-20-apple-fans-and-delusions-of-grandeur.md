@@ -1,6 +1,6 @@
 ---
 
-header: Mike Stone
+
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
 title: Apple Fans And Delusions Of Grandeur
 permalink: /apple-fans-and-delusions-of-grandeur/

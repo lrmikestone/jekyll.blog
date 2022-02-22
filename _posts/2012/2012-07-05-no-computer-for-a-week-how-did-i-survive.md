@@ -1,6 +1,6 @@
 ---
 
-header: Mike Stone
+
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
 title: How Did I Survive With No Computer For A Week?
 permalink: /no-computer-for-a-week-how-did-i-survive/

@@ -1,6 +1,6 @@
 ---
 
-header: Mike Stone
+
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
 title: A Little Salt With Your Market Share Stats?
 permalink: /a-little-salt-with-your-market-share-stats/

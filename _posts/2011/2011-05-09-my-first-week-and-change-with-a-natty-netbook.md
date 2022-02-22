@@ -1,6 +1,6 @@
 ---
 
-header: Mike Stone
+
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
 title: My First Week (and change) with a Natty Netbook
 permalink: /my-first-week-and-change-with-a-natty-netbook/

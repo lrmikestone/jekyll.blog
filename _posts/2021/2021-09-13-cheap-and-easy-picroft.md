@@ -1,5 +1,5 @@
 ---
-header: Mike Stone
+
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
 title: "A Cheap And Easy Picroft"
 permalink: /cheap-and-easy-picroft/

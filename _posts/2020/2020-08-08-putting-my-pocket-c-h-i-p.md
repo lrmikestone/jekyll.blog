@@ -1,6 +1,6 @@
 ---
 
-header: Mike Stone
+
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
 title: Putting My Pocket C.H.I.P. To Use
 permalink: /putting-my-pocket-c-h-i-p/

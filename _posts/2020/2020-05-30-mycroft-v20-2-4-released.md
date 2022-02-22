@@ -1,6 +1,6 @@
 ---
 
-header: Mike Stone
+
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
 title: Mycroft v20.2.4 Released
 permalink: /mycroft-v20-2-4-released/

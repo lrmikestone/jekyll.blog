@@ -1,5 +1,5 @@
 ---
-header: Mike Stone
+
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
 title: "Introducing The New Mac Plu.. Err... Mycroft Mark II!"
 permalink: /introducing-the-new-mac-plus-err-mark-two/

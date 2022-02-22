@@ -1,6 +1,6 @@
 ---
 
-header: Mike Stone
+
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
 title: Migrating from Wordpress to write.as
 permalink: /migrating-from-wordpress-to-write-as/

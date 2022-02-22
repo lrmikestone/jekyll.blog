@@ -1,6 +1,6 @@
 ---
 
-header: Mike Stone
+
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
 title: Mycroft Mark II Ready To Ship, Kinda
 permalink: /mycroft-mark2-ready-to-ship-kinda/

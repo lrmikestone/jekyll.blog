@@ -1,6 +1,6 @@
 ---
 
-header: Mike Stone
+
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
 title: Protect your Privacy in a Post Prism World
 permalink: /protect-your-privacy-in-a-post-prism-world/

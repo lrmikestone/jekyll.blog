@@ -1,5 +1,5 @@
 ---
-header: Mike Stone
+
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
 title: "100 Days to Offload Part 3"
 permalink: /100-days-to-offload-part-3/

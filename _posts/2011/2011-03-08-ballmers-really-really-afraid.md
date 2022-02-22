@@ -1,6 +1,6 @@
 ---
 
-header: Mike Stone
+
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
 title: Ballmer's Really REALLY Afraid
 permalink: /ballmers-really-really-afraid/
