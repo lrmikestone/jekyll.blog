@@ -5,7 +5,7 @@ title: "Open Source Fitness"
 permalink: /open-source-fitness/
 excerpt_separator: <!--more-->
 layout: post
-date: "2022-01-10 09:05:00 -0700"
+date: "2022-02-11 09:05:00 -0700"
 published: true
 ---
 
@@ -31,6 +31,6 @@ What we need is a portal of some kind that would gather up the data that you cou
 
 I feel like the only reason this doesn't exist is because the fitness industry is downright hostile to the idea. They want to rope you into their walled garden and keep you there.
 
-Maybe someday in the not too distant future, we'll have an open source option. I'd much rather host the data myself than have Google knowing how fast my heart beats and how much sleep I'm getting. 
+Maybe someday in the not too distant future, we'll have an open source option. I'd much rather host the data myself than have Google knowing how fast my heart beats and how much sleep I'm getting.
 
 Day 3 of the #100DaysToOffload 2022 Series.
