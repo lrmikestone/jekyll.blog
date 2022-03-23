@@ -4,7 +4,7 @@ excerpt_separator: <!--more-->
 title: Doing Work From Home Wrong
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
 permalink: doing-work-from-home-wrong
-date: 2022-03-23T17:37:00.000Z
+date: 2022-03-23T15:37:00.000Z
 published: true
 ---
 I've been working from home now for over two years. I like working from home. It's nice. I've recently determined that I'm doing this whole thing wrong.
