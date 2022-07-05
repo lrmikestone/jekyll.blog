@@ -34,7 +34,7 @@ Take a Linux distro like [Ubuntu](https://ubuntu.com). Let's say that hypothetic
 
 Yes. It's still a Linux distribution even though everything has been abstracted away from the kernel.
 
-What if hypothetically Canonical releases an identical Ubuntu 26.04 with the Zircon kernel from [Fuchsia](https://en.wikipedia.org/wiki/Fuchsia_(operating_system) instead of the Linux kernel. Is it still a Linux distribution.
+What if hypothetically Canonical releases an identical Ubuntu 26.04 with the Zircon kernel from [Fuchsia](https://en.wikipedia.org/wiki/Fuchsia_(operating_system)) instead of the Linux kernel. Is it still a Linux distribution.
 
 No. No Linux. No Linux distribution. Even if literally everything else is the same and works the same and you can't tell the difference. It's still not a Linux distro.
 
