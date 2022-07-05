@@ -18,7 +18,7 @@ First of all, if you haven't listened to these episodes, now is a good time to d
 
 [Episode 50](https://linuxdowntime.com/linux-downtime-episode-50/)
 
-First of all, let's be clear here. I love these guys. I like [Joe](https://fosstodon.org/@JoeRess). I like [Wimpy](https://twitter.com/m_wimpress). They're all good guys, but they're massively overthinking this thing.
+OK, let's be clear here. I love these guys. I like [Joe](https://fosstodon.org/@JoeRess). I like [Wimpy](https://twitter.com/m_wimpress). They're all good guys, but they're massively overthinking this thing.
 
 So, what _is_ a Linux Distribution.
 
