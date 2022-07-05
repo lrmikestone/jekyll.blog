@@ -15,6 +15,7 @@ This is a response to a two episodes of the podcast [Linux Downtime](https://lin
 First of all, if you haven't listened to these episodes, now is a good time to do it. I'll wait. You can find them here:
 
 [Episode 49](https://linuxdowntime.com/linux-downtime-episode-49/)
+
 [Episode 50](https://linuxdowntime.com/linux-downtime-episode-50/)
 
 First of all, let's be clear here. I love these guys. I like [Joe](https://fosstodon.org/@JoeRess). I like [Wimpy](https://twitter.com/m_wimpress). They're all good guys, but they're massively overthinking this thing.
