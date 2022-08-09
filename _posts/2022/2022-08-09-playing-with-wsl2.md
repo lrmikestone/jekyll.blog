@@ -1,7 +1,7 @@
 ---
 layout: post
 excerpt_separator: <!--more-->
-title: Playing With WSL2g
+title: Playing With WSL2
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
 permalink: playing-with-wsl2 
 date: 2022-08-09T10:57:34.608Z
