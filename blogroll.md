@@ -21,7 +21,7 @@ layout: default
     <br><br><center>Simbly Me</center>
   </td>
   <td>
-    <a href="http://blog.inkie.xyz/">
+    <a href="https://scyllasequence.com">
       <img align="top" src="/assets/images/blogroll/indie.png">
     </a>
     <br><br><center>Indie Larsdatter</center>
