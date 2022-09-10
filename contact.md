@@ -10,58 +10,8 @@ layout: default
 
 You can reach me via [email](mailto:miz4mzt9@duck.com) or on [Fosstodon](https://fosstodon.org/@mike "Fosstodon").
 
-Also, these days it seems we’re being watched constantly. If you want to send me something a little bit more secure, here’s my public key:
-```
------BEGIN PGP PUBLIC KEY BLOCK-----
+Also, these days it seems we’re being watched constantly. If you want to send me something a little bit more secure, I have a [Keyoxide](https://keyoxide.org) profile [here](https://keyoxide.org/hkp/EBD0831C9202570E2E2483B68555A0ABA3F28D2A).
 
-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
-=xiHP
------END PGP PUBLIC KEY BLOCK-----
-```
+![](assets/images/EncryptionQR.png)
+
 Keep in mind that I don’t decrypt that stuff on my phone, so if you contact me that way it may take a little longer for a response. Also, if you’d like an encrypted response, you’ll need to send me your public key or at least a place I can look it up.
