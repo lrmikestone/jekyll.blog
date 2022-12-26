@@ -3,11 +3,11 @@ layout: post
 excerpt_separator: <!--more-->
 title: Stop Trying to Make Computers Seem Human
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
-permalink: but-are-they-really-podcasts
+permalink: stop-trying-to-make-computers-seem-human
 date: 2022-09-05T02:26:34.608Z
 published: true
 ---
-
+sample
 I'm a fan of virtual assistants. I have been for years and years. I remember playing with the psychotherapist version of Eliza that's built into emacs back in the mid-90s. The psychotherapist was not great, and it didn't take much to know you weren't talking to a human. The problem is, times have changed and we've gotten a lot better at this stuff. We need to stop it.
 
 <!--more-->
