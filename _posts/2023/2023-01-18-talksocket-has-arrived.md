@@ -32,4 +32,4 @@ I took it out of the box, and I fired it up. I ran it through it's paces and let
 
 That's frustrating.
 
-Day 25 of the #100DaysToOffload Series.
+Day 1 of the #100DaysToOffload Series.
