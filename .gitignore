@@ -4,5 +4,4 @@ _site/
 .jekyll-metadata
 .vscode/
 .frontmatter/
-.frontmatter.json
-.mediaDb.json
+frontmatter.json
