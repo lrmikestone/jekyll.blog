@@ -3,10 +3,10 @@ layout: post
 excerpt_separator: <!--more-->
 title: Playing with the Front Matter Extension
 description: Mostly The Lonely Howls Of Mike Baying His
-permalink: complaints-about-calendars
+permalink: playing-with-the-front-matter-extension
 date: 2023-03-03T17:44:37.711Z
 published: true
-lastmod: 2023-03-03T17:53:44.132Z
+lastmod: 2023-03-03T18:04:22.375Z
 ---
 Based on the recommendation of [David Wynn](https://fosstodon.org/@FTWynn) over on [Fosstodon](https://fosstodon.org) to [Kev](https://fosstodon.org/@kev), I'm trying out the Front Matter "CMS".
 
