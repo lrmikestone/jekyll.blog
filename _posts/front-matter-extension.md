@@ -2,7 +2,7 @@
 layout: post
 excerpt_separator: <!--more-->
 title: Playing with the Front Matter Extension
-description: Mostly The Lonely Howls Of Mike Baying His
+description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
 permalink: playing-with-the-front-matter-extension
 date: 2023-03-03T17:44:37.711Z
 published: true
