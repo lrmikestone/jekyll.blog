@@ -1,12 +1,11 @@
 ---
 layout: post
 excerpt_separator: <!--more-->
-title: Playing with the Front Matter Extension
+title: Back From Vacation
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
-permalink: playing-with-the-front-matter-extension
-date: 2023-03-03T17:44:37.711Z
+permalink: back-from-vacation
+date: 2023-03-21T12:36:37.711Z
 published: true
-lastmod: 2023-03-03T18:04:22.375Z
 ---
 
 The title says it all. I'm back.
