@@ -12,7 +12,7 @@ As someone who approves account requests on [Fosstodon](https://fosstodon.org), 
 
 <!--more-->
 
-People are used to closed systems when it comes to social media. If you want to follow someone, you need an account. [Mastodon](https://joinmastodon.org). Mastodon isn't built on the idea that it needs to rope you in and keep you there. It's built to share with others. With that in mind, Mastodon has built support for RSS in.
+People are used to closed systems when it comes to social media. If you want to follow someone, you need an account. [Mastodon](https://joinmastodon.org) isn't built on the idea that it needs to rope you in and keep you there. It's built to share with others. With that in mind, Mastodon has built support for RSS in.
 
 If you want to follow me on Fosstodon, but don't want an account, you can just add my RSS feed. The feed is simply the URL of the profile with .rss added to the end. So, for me it's [https://fosstodon.org/@mike.rss](https://fosstodon.org/@mike.rss). This can be followed with any RSS reader. The only restrictions are what the individual chooses to restrict. You're not going to see their DMs showing up in the RSS feed.
 
