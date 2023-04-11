@@ -28,6 +28,6 @@ So, with the gift of hindsight, it seems as if 2015 wasn't the best time to be g
 
 Unfortunately Mycroft is gone, or might as well be. Even if they did manage to rouse themselves and rise to the challenge, it would be difficult to trust them again. Too many people were burned by their Kickstarter rewards that never materialized. Despite this, we could still benefit from the years of development done by them and the people around them. Their offering is open source after all, and Mycroft has been picked up by others in the form of [OVOS](https://openvoiceos.com) and [Neon](https://neon.ai). They're not the only players either. The only thing they're missing is a stand-alone device that sits on your deskt that's easy to use. Neon runs without effort on the latest Mark II hardware, so there's that. 
 
-I feel like this is another perfect opportunity for someone like [Pine64](https://pine64.org) to jump in. They've got the hardware experience to put out something quickly and inexpensively, and there's several different hardware options already that could run on their device. All they need is the motivation to do it. Here's hoping they'll find it.
+I feel like this is another perfect opportunity for someone like [Pine64](https://pine64.org) to jump in. They've got the hardware experience to put out something quickly and inexpensively, and there's several different software options already that could run on their device. All they need is the motivation to do it. Here's hoping they'll find it.
 
 Day 6 of the #100DaysToOffload Series.
