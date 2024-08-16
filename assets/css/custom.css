@@ -65,3 +65,7 @@ ul.archive li {
     border-color: transparent
   }
 }
+
+main a {
+  text-decoration: none;
+}
