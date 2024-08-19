@@ -4,7 +4,7 @@ excerpt_separator: <!--more-->
 title: Computer Drama 
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
 permalink: computer-drama
-date: 2024-08-17T10:36:37.711Z
+date: 2024-08-18T10:36:37.711Z
 published: true
 ---
 
