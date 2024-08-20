@@ -15,9 +15,9 @@ to train some LLM. We just need to get back to a time when search engines were a
 
 <!--more-->
 
-So, this is where I talk about [Clew](https://clew.se). For those of you who don't know what Clew is, I'm going to just flat out plagiarize this right off their page.
-"Clew is a web search engine trying to be different from the rest." They "focus on writing by independent creators. There's no point in indexing Wikipedia; it has its 
-own perfectly serviceable search bar."
+So, this is where I talk about [Clew](https://clew.se). For those of you who don't know what Clew is, Clew is an independent search engine and the brain child of 
+[Amin Hollon](https://alpha.polymaths.social/@amin). I'm going to just flat out plagiarize the rest of this right off their page. "Clew is a web search engine trying 
+to be different from the rest." They "focus on writing by independent creators. There's no point in indexing Wikipedia; it has its own perfectly serviceable search bar."
 
 The fact that they focus on independent creators is important. These are just people. They're not necessarily journalists or "influencers". They don't need to be for some
 of these people to have real and helpful knowledge. Knowledge they're willing to share without making you turn off your ad blocker to make sure they're able to sell you
