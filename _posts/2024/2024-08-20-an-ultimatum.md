@@ -4,7 +4,7 @@ excerpt_separator: <!--more-->
 title: An Ultimatum? 
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
 permalink: an-ultimatum
-date: 2024-08-19T10:36:37.711Z
+date: 2024-08-20T10:36:37.711Z
 published: true
 ---
 
