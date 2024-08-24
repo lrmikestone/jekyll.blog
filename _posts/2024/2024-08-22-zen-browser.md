@@ -4,7 +4,7 @@ excerpt_separator: <!--more-->
 title: The Zen Browser 
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
 permalink: zen-browser 
-date: 2024-08-21T10:36:37.711Z
+date: 2024-08-22T10:36:37.711Z
 published: true
 ---
 
