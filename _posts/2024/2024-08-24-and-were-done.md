@@ -8,7 +8,7 @@ date: 2024-08-24T10:36:37.711Z
 published: true
 ---
 
-I've finally finished my final project for my current class. There's nothing to do now but wait and see how it call came out.
+I've finally finished my final project for my current class. There's nothing to do now but wait and see how it all came out.
 
 <!--more-->
 
