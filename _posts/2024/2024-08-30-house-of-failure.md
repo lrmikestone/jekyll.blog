@@ -8,7 +8,7 @@ date: 2024-08-30T10:36:37.711Z
 published: true
 ---
 
-I haven't mentioned this one [Fosstodon](https://fosstodon.org), or really anywhere online, but my wife and I have been in the middle of purchasing a house. The title of this post is more than a little spoilery, but I'll tell the sordid tale anyway.
+I haven't mentioned this on [Fosstodon](https://fosstodon.org), or really anywhere online, but my wife and I have been in the middle of purchasing a house. The title of this post is more than a little spoilery, but I'll tell the sordid tale anyway.
 
 <!--more-->
 
