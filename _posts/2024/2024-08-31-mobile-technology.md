@@ -4,7 +4,7 @@ excerpt_separator: <!--more-->
 title: Mobile Technology
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
 permalink: mobile-technology
-date: 2024-08-30T10:36:37.711Z
+date: 2024-08-31T10:36:37.711Z
 published: true
 ---
 
