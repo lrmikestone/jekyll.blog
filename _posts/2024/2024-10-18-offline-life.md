@@ -10,6 +10,8 @@ published: true
 
 It's been a while since I've put up a post. This isn't going to be good for my 100 Days challenge since there are only so many days left in 2024, but there has just been things going on.
 
+<!--more-->
+
 I was out for my pseudo-daily run today and listening to a podcast from the EFF, [How To Fix The Internet](https://www.eff.org/deeplinks/2023/05/podcast-episode-who-inserted-creepy). The episode was an older one, but I'm catching up on some episodes I missed earlier while they're on break. During the episode, the guest Dave Eggers casually made a comment about how the computer he uses daily is around 19 years old. He keeps using it because he owns all the software on it, and it's not a cloud machine.
 
 This got me thinking about my own computer.
