@@ -12,6 +12,8 @@ I'm making it a habit copying [Kev](https://fosstodon.org/@kev).
 
 Kev recently posted a [Blog Questions Challenge](https://kevquirk.com/blog/blog-questions-challenge) that seemed like a fun idea. So, I thought I'd run with it for the first post of 2025.
 
+<!--more-->
+
 The questions are:
 
 1. Why did you start blogging in the first place?
