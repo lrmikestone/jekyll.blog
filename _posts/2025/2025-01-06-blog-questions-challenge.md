@@ -39,10 +39,6 @@ Right now my blog is a [Jekyll](https://jekyllrb.com) site. The files are hosted
 
 Yup. Lots. I started out writing straight HTML into emacs. I've gone through several different iterations like Wordpress and [write.as](https://write.as) before settling into the setup I've got going on right no(https://jekyllrb.com) site. The files are hosted on [GitHub](https://github.com) and the site hosted through [Netlify](https://www.netlify.com). I chose this platform two reasons. It's easy and it's cheap. Also, Kev posted a [how-to](https://kevquirk.com/blog/how-to-build-jekyll-site-simple-css) that walked through the entire setup and it saved me a couple bucks off the iteration of my site that preceeded this one. 
 
-## 3. Have you blogged on other platforms before?
-
-Yup. Lots. I started out writing straight HTML into emacs. I've gone through several different iterations like Wordpress and [write.as](https://write.as) before settling into the setup I've got going on right now.
-
 ## 4. How do you write your posts? For example, in a local editing tool, or in a panel/dashboard that's part of your blog?
 
 I write in vim almost exclusively. I keep trying to find a better way of doing it, but I always come back to vim. 
