@@ -4,7 +4,7 @@ excerpt_separator: <!--more-->
 title: I'm Garbage At Email
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
 permalink: 20250421-garbage-at-email
-date: 2025-02-09T01:00:00.000Z
+date: 2025-04-21T01:00:00.000Z
 published: true
 ---
 
