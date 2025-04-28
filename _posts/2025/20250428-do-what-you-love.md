@@ -68,8 +68,6 @@ This morning Kev posted to his personal blog that [he was done](https://kevquirk
 
 I understand that Kev is at his limit. I am too. I'm done. Enough is enough.
 
-<!--You have no idea how much I wanted to say "Fuck this" here -->
-
 I do want to say that it hasn't been all bad. Occasionally, someone will do something or say something that puts a smile on my face. Unfortunately, those times are like drops of water in the dessert. There will be far more people lining up to tell me I wrote "dessert" instead of "desert" than will have gotten the point I was trying to make. 
 
 Kev and I are still talking about the future of Fosstodon. I don't know what that will be at this point. I don't know if we'd hand it off if someone made an offer to take it, or if we'd prefer to turn the lights off behind us. What I do know is, if Fosstodon continues on it'll be without me. I don't know if I'll keep going on Mastodon. If I do, I might just start an anonymous account somewhere and get back to talking about things I used to enjoy. Kev and I will honor the three months notice we promised we'd give, but this is no longer something I love. I'm going to go and try to find some of that again.
