@@ -3,7 +3,7 @@ layout: post
 excerpt_separator: <!--more-->
 title: Do What You Love
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
-permalink: 20250428-do-what-you-love
+permalink: 2025-04-28-do-what-you-love
 date: 2025-04-28T01:00:00.000Z
 published: true
 ---
