@@ -1,6 +1,9 @@
 ---
-layout: page
 title: Stats
+header: Mike Stone
+description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
+permalink: /stats/
+layout: default
 ---
 	{% assign totalWords = 0 %}
 	{% assign dateOb = '' %}
