@@ -21,14 +21,6 @@ layout: default
 **Average words per post:** {{ avgWords }} <br>
 **Total categories:** {{ site.categories.size }}
 
-## Posts by category
-<ul>
-  {% assign sorted_cats = site.categories | sort %}
-  {% for category in sorted_cats %}
-    <li><a href="{{ site.url }}/category/{{ category | first | slugify }}/">{{ category | first }}</a> ({{ category | last | size }})</li>
-  {% endfor %}
-</ul>
-
 ## Posts by year
 <ul class="posts">
   {% assign posts_per_year = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
