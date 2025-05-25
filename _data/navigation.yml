@@ -13,5 +13,8 @@
 - name: Blogroll
   link: /blogroll/
 
+- name: Stats
+  link: /stats/
+  
 - name: Archive
   link: /blog/
