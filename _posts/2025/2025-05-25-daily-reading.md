@@ -48,3 +48,5 @@ Today’s Reading:
 * [Am I hot or not? People are asking ChatGPT for the harsh truth.](https://www.washingtonpost.com/technology/2025/05/25/chatgpt-ai-beauty-advice/)
 * [People Are Finding Spiritual Fulfillment in AI. Religious Scholars Have Thoughts](https://www.rollingstone.com/culture/culture-features/ai-chatbot-god-religion-answers-1235347023/)
 * [Women three times more vulnerable to having job taken by AI than men, new report warns](https://www.euronews.com/next/2025/05/24/womens-jobs-three-times-more-vulnerable-to-being-taken-by-ai-than-mens-new-report-warns)
+
+Day 45 of the #100DaysToOffload Series.
