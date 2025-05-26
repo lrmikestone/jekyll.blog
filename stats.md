@@ -19,7 +19,6 @@ layout: default
 **Total posts:** {{ site.posts.size }} <br>
 **Total words:** {{ totalWords | number_with_delimiter }} (that's approximately {{ totalWords | divided_by: 50000 }} novels)<br>
 **Average words per post:** {{ avgWords }} <br>
-**Total categories:** {{ site.categories.size }}
 
 ## Posts by year
 <ul class="posts">
