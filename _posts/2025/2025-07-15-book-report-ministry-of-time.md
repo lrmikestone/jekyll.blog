@@ -19,11 +19,11 @@ Over the next year, what the bridge initially thought would be, at best, a horri
 
 An exquisitely original and feverishly fun fusion of genres and ideas, The Ministry of Time asks: What does it mean to defy history, when history is living in your house? Kaliane Bradley’s answer is a blazing, unforgettable testament to what we owe each other in a changing world.</blockquote>
 
-I got hooked into reading this book because I'm a fan of Science Fiction, and I do enjoy a good time travel story. I don't remember where I heard about it, but I'd never read any of the author's work before, so I was unsure what to expect, but I really enjoyed it for the most part. 
+I got hooked into reading this book because I'm a fan of Science Fiction, and I do enjoy a good time travel story. I don't remember where I heard about it, but I'd never read any of the author's work before. I was unsure what to expect, but I really enjoyed it for the most part. 
 
-Most of the reading I do doesn't tend to be particularly advanced. My vocabulary is probably about average, and I rarely have to look up any words in my usual fare. This book wasn't an exception, though there were a few places I had to figure out meanings based on contex. 
+Most of the reading I do doesn't tend to be particularly advanced. My vocabulary is probably about average and I rarely have to look up any words in my usual fare. This book wasn't an exception though there were a few places I had to figure out meanings based on contex. 
 
-This book was _not_ an action book. For the most part, it focused on a relationship between two people, and to a lesser extent the people who surround those individuals. The SciFi aspects of the story were more background and less relevant in the day to day, which usually took place in a home. Not a home on a space ship or anything like that. Just a house in a quiet neighborhood near London. 
+This book was _not_ an action book. For the most part, it focused on a relationship between two people and the people who surround those individuals to a lesser extent. The SciFi aspects of the story were more background and less relevant in the day to day, which usually took place in a home. Not a home on a space ship or anything like that. Just a house in a quiet neighborhood near London. 
 
 Despite not being something I'd usually read, I found I really enjoyed myself. For some reason I took some time getting going, but after I made it about a third of the way in I burned through the rest of it in a day. I'd recomend this book to people who enjoy a book that doesn't require a fight every other page. 
 
