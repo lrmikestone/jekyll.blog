@@ -1,7 +1,7 @@
 ---
 layout: post
 excerpt_separator: <!--more-->
-title: Book Report: The Ministry of Time
+title: Book Report - The Ministry of Time
 date: 2025-07-15T01:00:00.000Z
 published: true
 ---
