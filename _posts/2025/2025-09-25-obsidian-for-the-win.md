@@ -5,7 +5,7 @@ title: Obsidian for the Win
 description: Mostly The Lonely Howls Of Mike Baying His Ideological Purity At The Moon
 permalink: 2025-09-25-obsidian-for-the-win
 date: 2025-09-25T10:09:27--0700
-published: false
+published: true
 ---
 I've been getting more and more into using Obsidian lately, and it's really simplified my note taking. Since I'm also using Jekyll for my web site, I figured I might be able to use Obsidian to simplify that too.
 
