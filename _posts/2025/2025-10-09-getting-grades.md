@@ -11,6 +11,8 @@ tags:
 ---
 This second time through college has changed the way I think about grading. I'm not sure if this is a universal thing, but my classes universally have been mapped from beginning to end before it's even started. There's a defined number of points. This has resulted in me considering my grade as a percentage of the whole right from the beginning. Instead of thinking about how I'm doing in a class based on the percentage of points I've gotten per assignment, I think about how I'm doing in relation to the total available.
 
+<!--more-->
+
 What does this mean? Well, let's consider a hypothetical. 
 
 Mike One is taking a class. Mike One is the first time I went through college. Mike One completes an assignment and gets 95 out of 100 points. Mike One thinks to himself, "Nice! I'm getting an A!"
