@@ -165,3 +165,46 @@ p.meta {
 ::-webkit-scrollbar-thumb:hover {
     background: var(--text-primary);
 }
+
+@media (max-width: 768px) {
+    body {
+        grid-template-columns: 1fr;
+        grid-template-rows: auto auto auto 1fr auto;
+        height: auto;
+        min-height: 100vh;
+    }
+    
+    header {
+        grid-column: 1;
+        grid-row: 3;
+        overflow-y: visible;
+        text-align: center;
+    }
+    
+    header nav {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 15px;
+        justify-content: center;
+    }
+    
+    header a {
+        display: inline-block;
+        margin: 0 15px 10px 0;
+    }
+    
+    header nav a {
+        margin: 0;
+    }
+    
+    main {
+        grid-column: 1;
+        grid-row: 4;
+        overflow-y: visible;
+    }
+    
+    footer {
+        grid-column: 1;
+        grid-row: 5;
+    }
+}
