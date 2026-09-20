@@ -19,7 +19,7 @@ body {
     box-sizing: border-box;
     
     display: grid;
-    grid-template-columns: 250px 1fr;
+    grid-template-columns: 250px 1fr auto;
     grid-template-rows: auto auto 1fr auto;
     gap: 10px;
 }
@@ -88,6 +88,46 @@ header a {
     font-size: 1rem;
 }
 
+/* RSS Pane Styles */
+#rss-pane {
+    grid-column: 3;
+    grid-row: 3;
+    width: 300px;
+    border: 1px solid var(--border-color);
+    position: relative;
+    padding: 15px;
+    overflow-y: auto;
+    box-sizing: border-box;
+}
+
+#rss-pane::before {
+    content: "Mastodon Feed";
+    position: absolute;
+    top: 0;
+    left: 10px;
+    transform: translateY(-50%);
+    background-color: var(--bg-color);
+    padding: 0 5px;
+    color: var(--accent-yellow);
+    font-size: 0.9rem;
+}
+
+.rss-item {
+    margin-bottom: 15px;
+    padding-bottom: 15px;
+    border-bottom: 1px solid #333;
+    font-size: 0.85rem;
+}
+.rss-item:last-child {
+    border-bottom: none;
+}
+.rss-date {
+    font-size: 0.75rem;
+    color: var(--accent-yellow);
+    margin-bottom: 5px;
+}
+
+/* Blog Post specific styles */
 header nav ul {
     list-style-type: none;
     padding: 0;
@@ -206,5 +246,9 @@ p.meta {
     footer {
         grid-column: 1;
         grid-row: 5;
+    }
+    
+    #rss-pane {
+        display: none;
     }
 }
