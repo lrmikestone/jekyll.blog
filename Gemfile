@@ -9,6 +9,8 @@ gem "jekyll"
 gem "csv"
 gem "logger"
 gem "base64"
+gem "bigdecimal"
+gem "liquid", "~> 4.0.4"
 
 # Plugins
 group :jekyll_plugins do
