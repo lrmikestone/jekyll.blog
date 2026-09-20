@@ -24,6 +24,43 @@
     <main>
       {{ content }}
     </main>
+    
+    <aside id="rss-pane">
+      <div id="rss-content">Loading...</div>
+    </aside>
+
+    <script>
+      const rssUrl = "https://fosstodon.org/@mike/with_replies.rss";
+      const apiUrl = `https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(rssUrl)}`;
+      
+      fetch(apiUrl)
+        .then(response => response.json())
+        .then(data => {
+            if(data.status === 'ok') {
+                const container = document.getElementById('rss-content');
+                container.innerHTML = '';
+                
+                data.items.slice(0, 10).forEach(item => {
+                    const el = document.createElement('div');
+                    el.className = 'rss-item';
+                    
+                    const date = new Date(item.pubDate).toLocaleDateString();
+                    
+                    el.innerHTML = `
+                        <div class="rss-date">${date}</div>
+                        <div style="margin-bottom: 5px;"><a href="${item.link}" target="_blank">View on Mastodon</a></div>
+                        <div>${item.content}</div>
+                    `;
+                    container.appendChild(el);
+                });
+            } else {
+                document.getElementById('rss-content').innerText = "Failed to load feed.";
+            }
+        })
+        .catch(err => {
+            document.getElementById('rss-content').innerText = "Error loading feed.";
+        });
+    </script>
 
     <footer>
       <p><small>This site was created by <a rel="me" href="https://fosstodon.org/@mike">Mike Stone</a> using <a href="https://jekyllrb.com">Jekyll</a> and <a href="https://simplecss.org">Simple.css</a>.<br>
